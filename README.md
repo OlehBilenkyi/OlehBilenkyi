@@ -1,4 +1,7 @@
-<img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="45%" hieght="44%">
+<div align="center">
+  <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="border: 3px solid #FF00FF; box-shadow: 0 0 30px #00FF9F; border-radius: 15px; margin: 20px 0;">
+</div>
+
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
 <div align="center" style="position: relative;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
@@ -6,9 +9,7 @@
  
 </div>
 
-<div align="center">
-  <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="border: 3px solid #FF00FF; box-shadow: 0 0 30px #00FF9F; border-radius: 15px; margin: 20px 0;">
-</div>
+
 
 <!-- ░▒▓█►─═ Core Stack ═─◄█▓▒░ -->
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
