@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/img/olehbilenkyi.jpeg" width="300">
+      <img src="assets/img/olehbilenkyi.jpeg" width="400">
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
@@ -56,15 +56,19 @@
 ### ▮▮▮ TECH MATRIX
 <div align="center">
   <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="40"> 
-  
+
   ![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-0d1117?style=flat&logo=html5&logoColor=FF5733&labelColor=0d1117)
   ![CSS3](https://img.shields.io/badge/-CYBER_STYLES-0d1117?style=flat&logo=css3&logoColor=2962FF&labelColor=0d1117)
   ![JavaScript](https://img.shields.io/badge/-NEURO_SCRIPT-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
- <!-- ![React](https://img.shields.io/badge/-QUANTUM_UI-0d1117?style=flat&logo=react&logoColor=61DAFB) -->
   ![PHP](https://img.shields.io/badge/-SERVER_SORCERY-0d1117?style=flat&logo=php&logoColor=8892BF)
   ![MySQL](https://img.shields.io/badge/-DATA_CRYPT-0d1117?style=flat&logo=mysql&logoColor=4479A1)
   ![AI](https://img.shields.io/badge/-NEURAL_LEARNING-0d1117?style=flat&logo=ai&logoColor=FF00FF&labelColor=0d1117)
+  ![Composer](https://img.shields.io/badge/-CODE_ALCHEMY-0d1117?style=flat&logo=composer&logoColor=885630)
+  ![Stripe](https://img.shields.io/badge/-DIGITAL_PAYMENTS-0d1117?style=flat&logo=stripe&logoColor=628DFB)
+  ![PHPMailer](https://img.shields.io/badge/-MAIL_WIZARDRY-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B)
+  ![Git](https://img.shields.io/badge/-CODE_VERSIONING-0d1117?style=flat&logo=git&logoColor=F05032)
 </div>
+
 
 ### ▮▮▮ ACTIVE HACKS
 | <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
