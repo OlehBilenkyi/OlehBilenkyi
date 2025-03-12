@@ -1,8 +1,8 @@
 <table width="100%">
   <tr>
-    <!-- Основное изображение (на всю ширину) -->
+    <!-- Основное изображение -->
     <td colspan="2" align="center">
-      <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="max-width: 600px;">
+      <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="max-width: 800px;">
     </td>
   </tr>
   <tr>
@@ -25,6 +25,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
