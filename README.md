@@ -1,37 +1,38 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&color=00FF9F&background=0D1117&center=true&vCenter=true&width=680&lines=%E2%9A%99%EF%B8%8F%20CYBERPUNK%20DEVELOPER%20PROFILE%20v1.0;%F0%9F%92%BB%20SYSTEM%20STATUS%3A%20OPERATIONAL%20%F0%9F%94%97;%F0%9F%9A%80%20AWAITING%20NEW%20CHALLENGES%20%F0%9F%98%8E" alt="Header">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=32&duration=4000&color=00FF9F&background=0d1117&center=true&vCenter=true&width=680&lines=NEURAL_INTERFACE_ACTIVATED;FRONTEND_SYSTEMS_»_ONLINE;DATABASES_»_ENCRYPTED_%F0%9F%94%92" alt="Cyber Header">
 </div>
 
 <div align="center">
-  
-  [![Hack Sequence](https://img.shields.io/badge/-INITIATE_CONNECTION-00FF9F?style=for-the-badge&logo=probot&logoColor=000)](https://github.com/OlehBilenkyi)
-  
+  <a href="https://github.com/OlehBilenkyi">
+    <img src="https://custom-icon-badges.demolab.com/badge/SYSTEM_BREACH-00FF9F.svg?logo=terminal&logoColor=black&style=for-the-badge">
+  </a>
 </div>
 
-## █▓▒░ TECH_CORE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HYPER_TEXT-00FF9F?style=flat&logo=html5&logoColor=000">
-  <img src="https://img.shields.io/badge/CYBER_STYLES-FF00FF?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/NEURAL_SCRIPTS-00F7FF?style=flat&logo=javascript&logoColor=000">
-  <br>
-  <img src="https://img.shields.io/badge/BACKEND_LOGIC-00FF9F?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/DATA_VAULT-FF00FF?style=flat&logo=mysql&logoColor=white">
-</p>
-
-## █▓▒░ ACTIVE_PROTOCOLS
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=00FF9F&background=0d1117&center=true&vCenter=true&width=500&lines=C:%5CUSERS%5COLEH%3E_INITIALIZING_SYSTEMS">
+</h2>
 
 
-$ cyber_projects --list
-✔ NEUROLINK (85%)  [HTML5/CSS3/JS] 
-✔ DATAHIVE         [PHP/MySQL]     
-⏳ CYBER_UI        [WIP]
-█▓▒░ CONTACT_MATRIX
++ ██╗  ██╗████████╗███╗   ███╗██╗     ██╗     
++ ██║  ██║╚══██╔══╝████╗ ████║██║     ██║     
++ ███████║   ██║   ██╔████╔██║██║     ██║     
++ ██╔══██║   ██║   ██║╚██╔╝██║██║     ██║     
++ ██║  ██║   ██║   ██║ ╚═╝ ██║███████╗███████╗
 
-<p align="center"> <a href="https://t.me/olehbilenkyi"> <img src="https://img.shields.io/badge/TELEGRAM_CHANNEL-00FF9F?style=for-the-badge&logo=telegram&logoColor=000"> </a> <a href="mailto:olehbilenkyi@gmail.com"> <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white"> </a> </p><div align="center">
+<div align="center">
+00000000  48 54 4D 4C 35 20 20 20  20 20 20 20 20 20 20 20  |HTML5          |
+00000010  43 53 53 33 20 20 20 20  20 20 20 20 20 20 20 20  |CSS3           |
+00000020  4A 53 20 20 20 20 20 20  20 20 20 20 20 20 20 20  |JS             |
+00000030  50 48 50 20 20 20 20 20  20 20 20 20 20 20 20 20  |PHP            |
+00000040  4D 79 53 51 4C 20 20 20  20 20 20 20 20 20 20 20  |MySQL          |
 
-+ [ SYSTEM READY FOR COLLABORATION ]
-- [ ERROR: NO CRITICAL ISSUES FOUND ]
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL"></div> ```
+</div>
+░▒▓► ACTIVE_PROTOCOLS
+NeuroLink
+DataHive
+
+<div align="center"> <a href="https://t.me/olehbilenkyi"> <img src="https://img.shields.io/badge/MAINFRAME_ACCESS-00FF9F?style=for-the-badge&logo=telegram&logoColor=black"> </a> <a href="mailto:olehbilenkyi@gmail.com"> <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white"> </a> </div><div align="center">
++ [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98%
+- [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
+
+</div> ```
