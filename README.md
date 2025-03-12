@@ -10,25 +10,21 @@
       <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h2 style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
+        <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
+      </h2>
+    </td>
+  </tr>
 </table>
 
 
-
-
-
-<!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
-<div align="center" style="position: relative;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
-  
- 
-</div>
-
-
-
-<!-- ░▒▓█►─═ Core Stack ═─◄█▓▒░ -->
-<h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
-</h2>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
