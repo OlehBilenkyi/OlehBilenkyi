@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 </h1>
 
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F700&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;Frontend+Developer;Lover+of+Tech!">
-</h1>
-
 ### ⚡ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -37,9 +32,31 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
 -->
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=%E2%9C%A8%20Open%20for%20SYNERGY%20Opportunities%20%7C%20Team%20Catalyst%20%26%20Code%20Hacker%20%7C%20Let's%20Build%20the%20Dystopian%20Future%20Together&fontSize=26&fontColor=FF00FF&stroke=00F7FF&animation=blinking&height=120"/>
----
+<a href="https://www.linkedin.com/in/ваш-профиль/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Hire%20Neural%20Pilot-00FF9F?style=for-the-badge&logo=matrix&logoColor=black&labelColor=FF00FF">
+</a>
+
+<h3 align="center" style="color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">
+  <span class="glitch" data-text="CODE_HAXXOR//SYSTEMS_ARCHITECT">TEAM_COLLABORATOR//SYNERGY_HACKER</span>
+</h3>
+
+<style>
+.glitch {
+  position: relative;
+}
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  left: 2px;
+  text-shadow: -1px 0 #FF00FF;
+  clip: rect(0, 900px, 0, 0);
+  animation: glitch-1 2s infinite linear alternate-reverse;
+}
+@keyframes glitch-1 {
+  0% { clip: rect(10px, 9999px, 20px, 0) }
+  100% { clip: rect(0, 9999px, 10px, 0) }
+}
+</style>
 
 
 ### 📊 GitHub Stats
