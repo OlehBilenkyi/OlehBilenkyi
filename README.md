@@ -1,66 +1,37 @@
 <div align="center">
   
-  ![CyberGrid](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/grid.svg)
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=32&duration=4000&color=00FF9F&background=FF00FF00&center=true&vCenter=true&width=680&lines=%E2%98%85%E2%98%85%E2%98%85%20NEURAL_INTERFACE_ACTIVATED%20%E2%98%85%E2%98%85%E2%98%85;%E2%8C%A8%20FRONTEND_SYSTEMS%20%C2%BB%20ONLINE%20%E2%8C%A8;%F0%9F%96%A5%EF%B8%8F%20DATABASES%20%C2%BB%20ENCRYPTED%20%F0%9F%94%92" alt="Cyber Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&color=00FF9F&background=0D1117&center=true&vCenter=true&width=680&lines=%E2%9A%99%EF%B8%8F%20CYBERPUNK%20DEVELOPER%20PROFILE%20v1.0;%F0%9F%92%BB%20SYSTEM%20STATUS%3A%20OPERATIONAL%20%F0%9F%94%97;%F0%9F%9A%80%20AWAITING%20NEW%20CHALLENGES%20%F0%9F%98%8E" alt="Header">
 
 </div>
 
 <div align="center">
   
-  [![Hack The Matrix](https://img.shields.io/badge/-SYSTEM_BREACH-%2300FF9F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAkSURBVHgB7cxBEQAACAIwtH8Pzw52kxD8OBZgNXsPQUOUwCIWcQMJPFZaAAAAAElFTkSuQmCC)](https://github.com/OlehBilenkyi)
+  [![Hack Sequence](https://img.shields.io/badge/-INITIATE_CONNECTION-00FF9F?style=for-the-badge&logo=probot&logoColor=000)](https://github.com/OlehBilenkyi)
   
 </div>
-<h2 align="center" style="position:relative;">
-  <span style="color:#00FF9F;text-shadow:0 0 8px #FF00FF">C:\USERS\OLEH>_</span>
-  <span class="glitch" data-text="INITIALIZING_CYBER_SYSTEMS">TECHNOLOGY_STACK</span>
-</h2>
 
-<style>
-.glitch {
-  animation: glitch 3s infinite;
-  position:relative;
-}
+## █▓▒░ TECH_CORE
 
-@keyframes glitch {
-  0% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-  20% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-  30% { text-shadow: -2px 0 #00F7FF, 2px 0 #FF00FF; }
-  40% { text-shadow: -2px 0 #00F7FF, 2px 0 #FF00FF; }
-  100% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-}
-</style>
+<p align="center">
+  <img src="https://img.shields.io/badge/HYPER_TEXT-00FF9F?style=flat&logo=html5&logoColor=000">
+  <img src="https://img.shields.io/badge/CYBER_STYLES-FF00FF?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/NEURAL_SCRIPTS-00F7FF?style=flat&logo=javascript&logoColor=000">
+  <br>
+  <img src="https://img.shields.io/badge/BACKEND_LOGIC-00FF9F?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/DATA_VAULT-FF00FF?style=flat&logo=mysql&logoColor=white">
+</p>
 
-<div align="center">
-  
-  ```hexdump
-  00000000  48 54 4D 4C 35 20 20 20  20 20 20 20 20 20 20 20  |HTML5          |
-  00000010  43 53 53 33 20 20 20 20  20 20 20 20 20 20 20 20  |CSS3           |
-  00000020  4A 53 20 20 20 20 20 20  20 20 20 20 20 20 20 20  |JS             |
-  00000030  50 48 50 20 20 20 20 20  20 20 20 20 20 20 20 20  |PHP            |
-  00000040  4D 79 53 51 4C 20 20 20  20 20 20 20 20 20 20 20  |MySQL          |
-</div> ```
-
-## ░▒▓► ACTIVE_PROTOCOLS
-
-[![CyberProgress](https://img.shields.io/badge/NEUROLINK-85%25-00FF9F?style=flat-square&logo=probot&logoColor=000&labelColor=FF00FF)](https://github.com/OlehBilenkyi)
-[![CyberProgress](https://img.shields.io/badge/DATAHIVE-ACTIVE-00F7FF?style=flat-square&logo=reverbnation&logoColor=000)](https://github.com/OlehBilenkyi)
-
-<div align="center">
-  
-  [![Matrix](https://img.shields.io/badge/-MAINFRAME_ACCESS-%2300FF9F?style=for-the-badge&logo=matrix&logoColor=white)](https://t.me/olehbilenkyi)
-  [![Neuralink](https://img.shields.io/badge/-SYNAPSE_CONNECTION-%23FF00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olehbilenkyi)
-  [![CyberMail](https://img.shields.io/badge/-ENCRYPTED_MAIL-%2300F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:olehbilenkyi@gmail.com)
-
-</div>
-
-<div align="center">
-  
-  ![CyberCode](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/code.svg)
-  
-   ```diff
-  + [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98%
-  - [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
-</div> ```
+## █▓▒░ ACTIVE_PROTOCOLS
 
 
+$ cyber_projects --list
+✔ NEUROLINK (85%)  [HTML5/CSS3/JS] 
+✔ DATAHIVE         [PHP/MySQL]     
+⏳ CYBER_UI        [WIP]
+█▓▒░ CONTACT_MATRIX
+
+<p align="center"> <a href="https://t.me/olehbilenkyi"> <img src="https://img.shields.io/badge/TELEGRAM_CHANNEL-00FF9F?style=for-the-badge&logo=telegram&logoColor=000"> </a> <a href="mailto:olehbilenkyi@gmail.com"> <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white"> </a> </p><div align="center">
+
++ [ SYSTEM READY FOR COLLABORATION ]
+- [ ERROR: NO CRITICAL ISSUES FOUND ]
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL"></div> ```
