@@ -1,9 +1,9 @@
-<img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="100%">
+<img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="45%" hieght="44%">
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
 <div align="center" style="position: relative;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
   
-  ![CyberGrid](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/cyber-grid.gif)
+ 
 </div>
 
 <div align="center">
@@ -118,5 +118,7 @@
 
 
 
-
+<div align="center">
+  <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
+</div>
 
