@@ -1,10 +1,8 @@
 <table>
   <tr>
-    <!-- Основное изображение -->
     <td>
       <img src="assets/img/olehbilenkyi.jpeg" width="300">
     </td>
-    <!-- Гифка + Текст -->
     <td align="center">
       <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
       <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
@@ -23,22 +21,14 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
 <h2 align="center">
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+World!;Developer+with+Passion!;I+build+futuristic+web+apps+with+soul!;Crafting+experiences+as+if+for+myself!">
 </h1>
-
 </h2>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack  +Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-NEON_CORE-0d1117?style=for-the-badge&logo=html5&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
   <img src="https://img.shields.io/badge/-SYNTHWAVE_STYLES-0d1117?style=for-the-badge&logo=css3&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
@@ -79,8 +69,8 @@
 ### ▮▮▮ ACTIVE HACKS
 | <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
-| **[NeuroLink](https://example.com)** | ![Progress](https://img.shields.io/badge/SYNTHESIS_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![React](https://img.shields.io/badge/-QUANTUM_UI-0d1117?style=flat&logo=react&logoColor=61DAFB) ![WebGL](https://img.shields.io/badge/-HYPER_RENDER-0d1117?style=flat&logo=webgl&logoColor=FF00FF) |
-| **[DataHive](https://example.com)** | ![Active](https://img.shields.io/badge/-NEURAL_ACTIVE-FF00FF?style=flat&logo=probot&logoColor=0d1117) | ![Node.js](https://img.shields.io/badge/-CORE_ENGINE-0d1117?style=flat&logo=node.js&logoColor=00FF9F) ![TensorFlow](https://img.shields.io/badge/-SYNAPSE_AI-0d1117?style=flat&logo=tensorflow&logoColor=FF00FF) |
+| **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777BB4) ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat&logo=html5&logoColor=E34F26) |
+
 
 ### ▮▮▮ NEURAL EVOLUTION
 <div align="center">
@@ -115,24 +105,14 @@
 ╚═╝╚═╝╩ ╩╝╚╝═╩╝  ╩  ╚═╝╩╚═╚═╝ ╩ 
 </pre>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack +Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
 
-
-
 + [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98% 
 - [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL">
-
-
-
-
-
-
 
 <div align="center">
   <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
