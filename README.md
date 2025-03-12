@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 <!--
@@ -15,4 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Cyberpunk Banner](img/banner.png)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F700&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyberpunk+Profile!;Frontend+Developer;Lover+of+Neon+and+Tech!">
+</h1>
+
+### ⚡ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=neon-dark" width="400">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=⚡%20Welcome%20to%20Cyberpunk%20Zone%20⚡&fontAlign=50&stroke=00FF00&fontSize=30&animation=twinkling&height=100"/>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔥 [Проект 1](https://github.com/OlehBilenkyi/Project1)
+- ⚡ [Проект 2](https://github.com/OlehBilenkyi/Project2)
+
+### 📬 Contact Me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
