@@ -1,18 +1,5 @@
 <div align="center">
-<div align="center" style="position: relative;">
-  <img src="assets/img/olehbilenkyi.jpeg" 
-       style="height: 65vh;
-              max-height: 500px;
-              min-height: 300px;
-              width: auto;
-              border: 3px solid #FF00FF;
-              box-shadow: 0 0 30px #00FF9F;
-              border-radius: 15px;
-              margin: 20px 0;
-              object-fit: contain;
-              background: linear-gradient(45deg, #0d1117 0%, #1a1f29 100%);
-              padding: 10px;">
-</div>
+  <img src="assets/img/olehbilenkyi.jpeg" width="100%" height="20%" style="border: 3px solid #FF00FF; box-shadow: 0 0 30px #00FF9F; border-radius: 15px; margin: 20px 0;"> # <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="50"> Oleh Bilenkyi
 </div>
 
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
