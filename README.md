@@ -36,27 +36,33 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/%F0%9F%9A%80-Hire%20Neural%20Pilot-00FF9F?style=for-the-badge&logo=matrix&logoColor=black&labelColor=FF00FF">
 </a>
 
-<h3 align="center" style="color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">
-  <span class="glitch" data-text="CODE_HAXXOR//SYSTEMS_ARCHITECT">TEAM_COLLABORATOR//SYNERGY_HACKER</span>
-</h3>
+<h1 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF;">
+  ░▒▓█►─═ API_ALCHEMIST ═─◄█▓▒░
+</h1>
 
-<style>
-.glitch {
-  position: relative;
-}
-.glitch::after {
-  content: attr(data-text);
-  position: absolute;
-  left: 2px;
-  text-shadow: -1px 0 #FF00FF;
-  clip: rect(0, 900px, 0, 0);
-  animation: glitch-1 2s infinite linear alternate-reverse;
-}
-@keyframes glitch-1 {
-  0% { clip: rect(10px, 9999px, 20px, 0) }
-  100% { clip: rect(0, 9999px, 10px, 0) }
-}
-</style>
+<div align="center">
+  
+  ![CyberGlitch](https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=24&duration=3000&color=00FF9FF7&center=true&vCenter=true&width=480&lines=TEAM_COLLABORATOR%2F%2FSYNERGY_HACKER;OPEN_FOR_COLLABORATIVE_HACKING)
+
+</div>
+
+## 🔮 Tech Stack
+![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-00FF9F?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CYBER_STYLES-FF00FF?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-NEURAL_SCRIPTING-00F7FF?style=flat-square&logo=javascript&logoColor=black)
+
+## ⚡ GitHub Neurostats
+![](https://github-readme-stats-cyberpunk.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00FF9F&icon_color=FF00FF)
+
+## 🛠️ Active Projects
+| Project | Status | Tech |
+|---------|--------|------|
+| [NeuroLink](https://example.com) | ![Progress](https://geps.dev/progress/85?dangerColor=FF00FF&warningColor=00F7FF&successColor=00FF9F) | React, WebGL |
+| [DataHive](https://example.com) | ![Active](https://img.shields.io/badge/-ACTIVE-00FF9F?style=flat-square&logo=probot&logoColor=black) | Node.js, TensorFlow |
+
+## 📡 Contact Matrix
+[![Telegram](https://img.shields.io/badge/-CYBER_COMMS-00FF9F?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/your_profile)
+[![LinkedIn](https://img.shields.io/badge/-NEURAL_NETWORK-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
 
 
 ### 📊 GitHub Stats
