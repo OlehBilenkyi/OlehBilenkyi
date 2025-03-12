@@ -36,7 +36,7 @@
 </h2>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Frontend +Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
 
 <div align="center">
@@ -70,7 +70,7 @@
   ![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-0d1117?style=flat&logo=html5&logoColor=FF5733&labelColor=0d1117)
   ![CSS3](https://img.shields.io/badge/-CYBER_STYLES-0d1117?style=flat&logo=css3&logoColor=2962FF&labelColor=0d1117)
   ![JavaScript](https://img.shields.io/badge/-NEURO_SCRIPT-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/-QUANTUM_UI-0d1117?style=flat&logo=react&logoColor=61DAFB)
+ <!-- ![React](https://img.shields.io/badge/-QUANTUM_UI-0d1117?style=flat&logo=react&logoColor=61DAFB) -->
   ![PHP](https://img.shields.io/badge/-SERVER_SORCERY-0d1117?style=flat&logo=php&logoColor=8892BF)
   ![MySQL](https://img.shields.io/badge/-DATA_CRYPT-0d1117?style=flat&logo=mysql&logoColor=4479A1)
   ![AI](https://img.shields.io/badge/-NEURAL_LEARNING-0d1117?style=flat&logo=ai&logoColor=FF00FF&labelColor=0d1117)
@@ -88,7 +88,7 @@
   
   ![AI Progress](https://img.shields.io/badge/DEEP_LEARNING_65%25-00FF9F?style=for-the-badge&logo=ai&logoColor=0d1117)
   ![ML](https://img.shields.io/badge/-NEURAL_NETWORKS-FF00FF?style=flat&logo=atom&logoColor=white)
-  ![Python](https://img.shields.io/badge/-PYTHONIC_SORCERY-0d1117?style=flat&logo=python&logoColor=3776AB)
+  
 </div>
 
 <!-- ░▒▓█►─═ Neural Network ═─◄█▓▒░ -->
@@ -97,13 +97,13 @@
 </h2>
 
 <div align="center">
-  <a href="https://t.me/your_profile">
+  <a href="https://t.me/OJIeja">
     <img src="https://img.shields.io/badge/-CYBER_COMMS-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
   </a>
-  <a href="https://linkedin.com/in/your_profile">
+  <a href="[https://linkedin.com/in/your_profile](https://www.linkedin.com/in/i3e-l-uy-95a55b177/)">
     <img src="https://img.shields.io/badge/-NEURAL_NET-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:I3eLuy@@gmail.com">
     <img src="https://img.shields.io/badge/-DATA_PACKET-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
   </a>
 </div>
@@ -117,7 +117,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Frontend +Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
 
 
