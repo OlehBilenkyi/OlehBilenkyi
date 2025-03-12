@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Основное изображение -->
   <img src="assets/img/olehbilenkyi.jpeg" width="45%" alt="Oleh Bilenkyi">
-</p>
+
 
 <p align="right">
   <!-- Гифка -->
@@ -9,7 +9,7 @@
   <!-- Текст -->
   <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
 </p>
-
+</p>
 
 
 
