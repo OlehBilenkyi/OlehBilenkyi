@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Profile!;Frontend+Developer;Lover+of+Tech!;I+build+futuristic+web+apps!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF007F&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+Profile!;Full-Stack+Web+Developer;Passionate+about+Innovation;💡+Creative+Problem+Solver;🤝+Great+Team+Player;🔥+Always+Learning+New+Tech!">
 </h1>
+
 
 
 <h1 align="center">
@@ -29,16 +30,26 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <!--
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
 -->
+
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20I%20Thrive%20in%20Team%20Environments!%20🤝&fontAlign=50&stroke=00FF7F&fontSize=30&animation=twinkling&height=100"/>
+---
+
 
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
 
 
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=neon-dark" width="400">
 
 ### 🚀 Featured Projects
 
