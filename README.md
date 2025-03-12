@@ -1,63 +1,68 @@
-<div align="center">
+<!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
+<div align="center" style="position: relative;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
   
-  ![CyberGrid](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/grid.svg)
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=32&duration=4000&color=00FF9F&background=FF00FF00&center=true&vCenter=true&width=680&lines=%E2%98%85%E2%98%85%E2%98%85%20NEURAL_INTERFACE_ACTIVATED%20%E2%98%85%E2%98%85%E2%98%85;%E2%8C%A8%20FRONTEND_SYSTEMS%20%C2%BB%20ONLINE%20%E2%8C%A8;%F0%9F%96%A5%EF%B8%8F%20DATABASES%20%C2%BB%20ENCRYPTED%20%F0%9F%94%92" alt="Cyber Header">
-
+  ![CyberGrid](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/cyber-grid.gif)
 </div>
 
 <div align="center">
-  
-  [![Hack The Matrix](https://img.shields.io/badge/-SYSTEM_BREACH-%2300FF9F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAkSURBVHgB7cxBEQAACAIwtH8Pzw52kxD8OBZgNXsPQUOUwCIWcQMJPFZaAAAAAElFTkSuQmCC)](https://github.com/OlehBilenkyi)
-  
+  <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="border: 3px solid #FF00FF; box-shadow: 0 0 30px #00FF9F; border-radius: 15px; margin: 20px 0;">
 </div>
-<h2 align="center" style="position:relative;">
-  <span style="color:#00FF9F;text-shadow:0 0 8px #FF00FF">C:\USERS\OLEH>_</span>
-  <span class="glitch" data-text="INITIALIZING_CYBER_SYSTEMS">TECHNOLOGY_STACK</span>
+
+<!-- ░▒▓█►─═ Core Stack ═─◄█▓▒░ -->
+<h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
 </h2>
 
-<style>
-.glitch {
-  animation: glitch 3s infinite;
-  position:relative;
-}
-
-@keyframes glitch {
-  0% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-  20% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-  30% { text-shadow: -2px 0 #00F7FF, 2px 0 #FF00FF; }
-  40% { text-shadow: -2px 0 #00F7FF, 2px 0 #FF00FF; }
-  100% { text-shadow: 3px 0 #FF00FF, -3px 0 #00F7FF; }
-}
-</style>
-
 <div align="center">
-  
-
-  00000000  48 54 4D 4C 35 20 20 20  20 20 20 20 20 20 20 20  |HTML5          |
-  00000010  43 53 53 33 20 20 20 20  20 20 20 20 20 20 20 20  |CSS3           |
-  00000020  4A 53 20 20 20 20 20 20  20 20 20 20 20 20 20 20  |JS             |
-  00000030  50 48 50 20 20 20 20 20  20 20 20 20 20 20 20 20  |PHP            |
-  00000040  4D 79 53 51 4C 20 20 20  20 20 20 20 20 20 20 20  |MySQL          |
-</div> 
-
-## ░▒▓► ACTIVE_PROTOCOLS
-
-[![CyberProgress](https://img.shields.io/badge/NEUROLINK-85%25-00FF9F?style=flat-square&logo=probot&logoColor=000&labelColor=FF00FF)](https://github.com/OlehBilenkyi)
-[![CyberProgress](https://img.shields.io/badge/DATAHIVE-ACTIVE-00F7FF?style=flat-square&logo=reverbnation&logoColor=000)](https://github.com/OlehBilenkyi)
-
-<div align="center">
-  
-  [![Matrix](https://img.shields.io/badge/-MAINFRAME_ACCESS-%2300FF9F?style=for-the-badge&logo=matrix&logoColor=white)](https://t.me/olehbilenkyi)
-  [![Neuralink](https://img.shields.io/badge/-SYNAPSE_CONNECTION-%23FF00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/olehbilenkyi)
-  [![CyberMail](https://img.shields.io/badge/-ENCRYPTED_MAIL-%2300F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:olehbilenkyi@gmail.com)
-
+  <img src="https://img.shields.io/badge/-NEON_CORE-0d1117?style=for-the-badge&logo=html5&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  <img src="https://img.shields.io/badge/-SYNTHWAVE_STYLES-0d1117?style=for-the-badge&logo=css3&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  <img src="https://img.shields.io/badge/-NEURO_SCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  <br>
+  <img src="https://img.shields.io/badge/-SERVER_SORCERY-0d1117?style=for-the-badge&logo=php&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  <img src="https://img.shields.io/badge/-DATA_CRYPT-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
 </div>
+
+<!-- ░▒▓█►─═ Neuro Interface ═─◄█▓▒░ -->
+<div align="center" style="margin: 40px 0;">
+  <a href="https://github.com/OlehBilenkyi?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%">
+  </a>
+  <a href="https://github.com/OlehBilenkyi?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
+  </a>
+</div>
+
+<!-- ░▒▓█►─═ Active Hacks ═─◄█▓▒░ -->
+<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> LIVE_HACKS
+</h2>
+
+| <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50"> PROJECT | STATUS | TECH STACK |
+|--------------|--------|------------|
+| **[NeuroLink](https://example.com)** | ![Progress](https://img.shields.io/badge/PROGRESS-85%25-00FF9F?style=flat&logo=probot&logoColor=black) | ![React](https://img.shields.io/badge/-React-00FF9F?style=flat&logo=react) ![WebGL](https://img.shields.io/badge/-WebGL-FF00FF?style=flat&logo=webgl) |
+| **[DataHive](https://example.com)** | ![Active](https://img.shields.io/badge/-ACTIVE-FF00FF?style=flat&logo=probot&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-00FF9F?style=flat&logo=node.js) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF00FF?style=flat&logo=tensorflow) |
+
+<!-- ░▒▓█►─═ Neural Network ═─◄█▓▒░ -->
+<h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCUrfi/giphy.gif" width="50"> CONNECT_MATRIX
+</h2>
+
 <div align="center">
-  
-  ![CyberCode](https://raw.githubusercontent.com/OlehBilenkyi/OlehBilenkyi/main/assets/code.svg)
-  
-  diff
-  + [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98%
-  - [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
-</div> 
+  <a href="https://t.me/your_profile">
+    <img src="https://img.shields.io/badge/-CYBER_COMMS-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  </a>
+  <a href="https://linkedin.com/in/your_profile">
+    <img src="https://img.shields.io/badge/-NEURAL_NET-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/-DATA_PACKET-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
+  </a>
+</div>
+
+<!-- ░▒▓█►─═ ASCII Terminus ═─◄█▓▒░ -->
+<pre align="center" style="color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">
+╔═╗╦ ╦╔═╗╔╗╔╔╦╗  ╔═╗╔═╗╦═╗╔═╗╔╦╗
+║ ╦║ ║╠═╣║║║ ║║  ╠═╝║ ║╠╦╝║╣  ║ 
+╚═╝╚═╝╩ ╩╝╚╝═╩╝  ╩  ╚═╝╩╚═╚═╝ ╩ 
+</pre>
