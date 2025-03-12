@@ -1,4 +1,4 @@
-![Cyberpunk Banner](assets/img/banner.png)
+![Cyberpunk Banner](assets/img/olehbilenkyi.jpeg)
 
 <!--
 **OlehBilenkyi/OlehBilenkyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
