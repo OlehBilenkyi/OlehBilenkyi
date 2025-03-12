@@ -1,8 +1,8 @@
 <div align="center">
   <div align="center" style="position: relative; overflow: hidden; border-radius: 15px;">
   <img src="assets/img/olehbilenkyi.jpeg" 
-       style="width: 500%;
-              height: 400px;
+       style="width: 50%;
+              height: 450px;
               object-fit: cover;
               object-position: center 30%;
               border: 3px solid #FF00FF;
