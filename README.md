@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF007F&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+Profile!;Full-Stack+Web+Developer;Passionate+about+Innovation;💡+Creative+Problem+Solver;🤝+Great+Team+Player;🔥+Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
 
 
@@ -38,18 +38,12 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20I%20Thrive%20in%20Team%20Environments!%20🤝&fontAlign=50&stroke=00FF7F&fontSize=30&animation=twinkling&height=100"/>
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=%E2%9C%A8%20Open%20for%20SYNERGY%20Opportunities%20%7C%20Team%20Catalyst%20%26%20Code%20Hacker%20%7C%20Let's%20Build%20the%20Dystopian%20Future%20Together&fontSize=26&fontColor=FF00FF&stroke=00F7FF&animation=blinking&height=120"/>---
 
 
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
-
-
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=neon-dark" width="400">
 
 ### 🚀 Featured Projects
 
