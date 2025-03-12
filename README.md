@@ -1,15 +1,10 @@
 <div align="center">
-  <div align="center" style="position: relative; overflow: hidden; border-radius: 15px;">
-  <img src="assets/img/olehbilenkyi.jpeg" 
-       style="width: 50%;
-              height: 450px;
-              object-fit: cover;
-              object-position: center 30%;
-              border: 3px solid #FF00FF;
-              box-shadow: 0 0 30px #00FF9F;
-              margin: 20px 0;
-              filter: hue-rotate(5deg) contrast(110%);">
-</div> # <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="50"> Oleh Bilenkyi
+  <img src="assets/img/olehbilenkyi.jpeg" width="400" style="float: left; margin-right: 30px; ...">
+  
+  <div style="overflow: hidden; padding-top: 380px;">
+    ![CyberGif](https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif)
+    <h1>Oleh Bilenkyi</h1>
+  </div>
 </div>
 
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
