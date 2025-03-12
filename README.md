@@ -1,3 +1,4 @@
+<img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="100%">
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
 <div align="center" style="position: relative;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=00FF9F&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96%20CYBER_SYNTH%20v4.2.0%20%E2%9C%94;%F0%9F%94%A5%20FRONTEND_TERMINATOR%20%E2%9D%97;%F0%9F%92%BB%20BACKEND_ALCHEMIST%20%E2%9C%A8" alt="Cyber Header" />
@@ -13,6 +14,10 @@
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
 </h2>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
+</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
@@ -99,16 +104,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL">
+
 
 + [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98% 
 - [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
 
-- <img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="100%">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL">
+
+
+
+
 
 
 
