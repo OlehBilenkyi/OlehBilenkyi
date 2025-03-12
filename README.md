@@ -1,4 +1,4 @@
-## Hi there 👋
+![Cyberpunk Banner](img/banner.png)
 
 <!--
 **OlehBilenkyi/OlehBilenkyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cyberpunk Banner](img/banner.png)
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F700&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyberpunk+Profile!;Frontend+Developer;Lover+of+Neon+and+Tech!">
