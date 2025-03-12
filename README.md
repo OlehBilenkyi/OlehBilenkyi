@@ -66,3 +66,41 @@
 ║ ╦║ ║╠═╣║║║ ║║  ╠═╝║ ║╠╦╝║╣  ║ 
 ╚═╝╚═╝╩ ╩╝╚╝═╩╝  ╩  ╚═╝╩╚═╚═╝ ╩ 
 </pre>
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL">
+
++ [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98% 
+- [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
+
+- <img src="assets/img/olehbilenkyi.jpeg" alt="Cyberpunk Banner" width="100%">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
+</h1>
+
+### 🚀 Tech Stack:
+![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2962FF?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
+</h1>
+
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=neon-dark" width="400">
+
+### 📬 Contact Me:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
