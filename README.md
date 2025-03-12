@@ -29,7 +29,10 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+World!;Developer+with+Passion!;I+build+futuristic+web+apps+with+soul!;Crafting+experiences+as+if+for+myself!">
+</h1>
+
 </h2>
 
 <h1 align="center">
