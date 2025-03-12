@@ -1,5 +1,40 @@
 <div align="center">
-  <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="border: 3px solid #FF00FF; box-shadow: 0 0 30px #00FF9F; border-radius: 15px; margin: 20px 0;">
+# <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="50"> Oleh Bilenkyi
+
+## <span style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F;">BACKEND_ALCHEMIST</span>
+
+<div align="center">
+  <img src="assets/img/olehbilenkyi.jpeg" 
+       style="height: 400px;
+              width: auto;
+              border: 3px solid #FF00FF;
+              box-shadow: 0 0 30px #00FF9F;
+              border-radius: 15px;
+              margin: 20px 0;
+              object-fit: cover;
+              filter: hue-rotate(90deg);
+              transition: transform 0.5s ease;">
+</div>
+
+### <span style="display: inline-block; animation: glow 2s infinite alternate;">⚡ TECH ARSENAL ⚡</span>
+
+---
+
+<div align="center" style="background: rgba(13,17,23,0.9);
+                        padding: 20px;
+                        border-radius: 10px;
+                        border: 2px solid #00FF9F;
+                        box-shadow: 0 0 40px #FF00FF inset;">
+  
+  **<span style="color: #FF00FF">GitHub Neural Store</span>**
+  
+  diff
+  + Total Share Encode:
+  ! Total Cements (USD): ░░░░░░░ 0 [████ 0%]
+  ! Quantum Income: ████ 0 
+  ! Yearly Plan Charge: ░░░░░░░ 0
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-top: 30px;"> <div style="padding: 15px; background: #0d1117; border: 1px solid #00FF9F; border-radius: 8px;"> <h3 style="color: #FF00FF">BACKEND_CONTENT</h3> <p style="color: #00FF9F">SEPTEMBER 1, 2019</p> <div style="background: linear-gradient(90deg, #FF00FF 0%, #00FF9F 100%); height: 3px; margin: 10px 0;"> </div> </div> <div style="padding: 15px; background: #0d1117; border: 1px solid #FF00FF; border-radius: 8px;"> <h3 style="color: #00FF9F">NEURAL STATS</h3> <p style="font-size: 2em; color: #FF00FF; text-shadow: 0 0 20px #00FF9F;"> 46 </p> <p style="color: #00FF9F">Total Synaptic Connections</p> </div></div><style> @keyframes glow { from { text-shadow: 0 0 10px #00FF9F; } to { text-shadow: 0 0 20px #FF00FF; } } img:hover { transform: scale(1.02) rotate(0.5deg); filter: hue-rotate(180deg); } </style>
 </div>
 
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
