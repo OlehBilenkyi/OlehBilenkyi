@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F700&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyberpunk+Profile!;Frontend+Developer;Lover+of+Neon+and+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F700&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile!;Frontend+Developer;Lover+of+Tech!">
 </h1>
 
 ### ⚡ Tech Stack
@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical" width="400">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=neon-dark" width="400">
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=⚡%20Welcome%20to%20Cyberpunk%20Zone%20⚡&fontAlign=50&stroke=00FF00&fontSize=30&animation=twinkling&height=100"/>
-
----
 
 ### 🚀 Featured Projects
 
