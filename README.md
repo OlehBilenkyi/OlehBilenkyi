@@ -1,21 +1,14 @@
-<div align="center" style="display: flex; align-items: flex-end; justify-content: space-between; gap: 20px;">
-
+<p align="center">
   <!-- Основное изображение -->
-  <img src="assets/img/olehbilenkyi.jpeg" 
-       style="width: 60%;
-              height: auto;
-              object-fit: cover;
-              border: 3px solid #FF00FF;
-              box-shadow: 0 0 30px #00FF9F;
-              filter: hue-rotate(5deg) contrast(110%);">
+  <img src="assets/img/olehbilenkyi.jpeg" width="45%" alt="Oleh Bilenkyi">
+</p>
 
-  <!-- Блок справа (гифка + текст) -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100">
-    <span style="font-size: 24px; font-weight: bold; color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">Oleh Bilenkyi</span>
-  </div>
-
-</div>
+<p align="right">
+  <!-- Гифка -->
+  <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
+  <!-- Текст -->
+  <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
+</p>
 
 
 
