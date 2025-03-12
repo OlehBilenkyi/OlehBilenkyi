@@ -1,15 +1,17 @@
-<p align="center">
-  <!-- Основное изображение -->
-  <img src="assets/img/olehbilenkyi.jpeg" width="45%" alt="Oleh Bilenkyi">
+<table>
+  <tr>
+    <!-- Основное изображение -->
+    <td>
+      <img src="assets/img/olehbilenkyi.jpeg" width="300">
+    </td>
+    <!-- Гифка + Текст -->
+    <td align="center">
+      <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
+      <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
+    </td>
+  </tr>
+</table>
 
-
-<p align="right">
-  <!-- Гифка -->
-  <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
-  <!-- Текст -->
-  <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
-</p>
-</p>
 
 
 
