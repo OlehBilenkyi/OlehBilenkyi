@@ -1,9 +1,11 @@
-<table>
+<table width="100%">
   <tr>
-    <!-- Основное изображение -->
-    <td>
-      <img src="assets/img/olehbilenkyi.jpeg" width="300">
+    <!-- Основное изображение (на всю ширину) -->
+    <td colspan="2" align="center">
+      <img src="assets/img/olehbilenkyi.jpeg" width="100%" style="max-width: 600px;">
     </td>
+  </tr>
+  <tr>
     <!-- Гифка + Текст -->
     <td align="center">
       <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
@@ -23,6 +25,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
