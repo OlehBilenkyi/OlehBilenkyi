@@ -1,4 +1,5 @@
-<div align="center" style="display: flex; align-items: center; gap: 15px;">
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+  <!-- Основное изображение -->
   <div style="position: relative; overflow: hidden; border-radius: 15px;">
     <img src="assets/img/olehbilenkyi.jpeg" 
          style="width: 50%;
@@ -10,11 +11,14 @@
                 margin: 20px 0;
                 filter: hue-rotate(5deg) contrast(110%);">
   </div>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="50">
-    <span style="font-size: 20px; font-weight: bold; color: #00FF9F;"></h1>Oleh Bilenkyi</h1></span>
+
+  <!-- Блок с гифкой и текстом -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="60">
+    <span style="font-size: 24px; font-weight: bold; color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">Oleh Bilenkyi</span>
   </div>
 </div>
+
 
 
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
