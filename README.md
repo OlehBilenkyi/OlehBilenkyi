@@ -1,11 +1,21 @@
-<div align="center">
-  <img src="assets/img/olehbilenkyi.jpeg" width="400" style="float: left; margin-right: 30px; ...">
-  
-  <div style="overflow: hidden; padding-top: 380px;">
-    ![CyberGif](https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif)
-    <h1>Oleh Bilenkyi</h1>
+<div align="center" style="display: flex; align-items: center; gap: 15px;">
+  <div style="position: relative; overflow: hidden; border-radius: 15px;">
+    <img src="assets/img/olehbilenkyi.jpeg" 
+         style="width: 50%;
+                height: 450px;
+                object-fit: cover;
+                object-position: center 30%;
+                border: 3px solid #FF00FF;
+                box-shadow: 0 0 30px #00FF9F;
+                margin: 20px 0;
+                filter: hue-rotate(5deg) contrast(110%);">
+  </div>
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="50">
+    <span style="font-size: 20px; font-weight: bold; color: #00FF9F;"></h1>Oleh Bilenkyi</h1></span>
   </div>
 </div>
+
 
 <!-- ░▒▓█►─═ Neon Pulse ═─◄█▓▒░ -->
 <div align="center" style="position: relative;">
@@ -21,9 +31,9 @@
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
 </h2>
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Cyberpunk+World!;Full-Stack+Developer;I+build+futuristic+web+apps!">
-</h1>
+</h2>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman">
