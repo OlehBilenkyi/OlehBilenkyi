@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="assets/img/olehbilenkyi.jpeg" width="200">
+      <img src="assets/img/olehbilenkyi.jpeg" height="200" width="650">
     </td>
   </tr>
   <tr>
