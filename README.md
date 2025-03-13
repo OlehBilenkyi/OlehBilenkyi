@@ -56,7 +56,7 @@
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
-  <img src="https://media.giphy.com/media/l0MYFHvnQXdIe9yQs/giphy.gif" width="40"> LIVE_HACKS
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNlNTUzZzA0bTJ6d3BmMDg5YmpxMzZmaXBvYzVncGVoNXRpemdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="40"> LIVE_HACKS
 </h2>
 
 ### ▮▮▮ TECH MATRIX
