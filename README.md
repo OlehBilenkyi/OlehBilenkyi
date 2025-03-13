@@ -1,4 +1,4 @@
-<table>
+<table style="background-color: black; width: 100%;">
   <tr>
     <td colspan="2" align="center">
       <img src="assets/img/olehbilenkyi.jpeg" height="200" width="650">
@@ -43,7 +43,7 @@
 
 ### 🚀 GitHub Статистика 🚀
 <div align="center" style="margin: 40px 0;">
-  <table>
+  <table style="background-color: black;">
     <tr>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi?tab=repositories">
