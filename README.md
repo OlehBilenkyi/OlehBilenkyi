@@ -47,11 +47,18 @@
 <!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center" style="margin: 40px 0;">
   <a href="https://github.com/OlehBilenkyi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%">
   </a>
+  
+  <a href="https://github.com/OlehBilenkyi">
+    <img src="https://streak-stats.demolab.com?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
+  </a>
+
+
   <a href="https://github.com/OlehBilenkyi?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%" alt="GitHub Streak Stats">
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%" alt="GitHub Streak Stats">
+</a>
+
 </div>
 
 
