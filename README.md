@@ -6,20 +6,17 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/l0MYFHvnQXdIe9yQs/giphy.gif" width="100"><br>
-      <strong style="font-size: 24px; color: #FF69B4;">Oleh Bilenkyi</strong>
-    </td>
-    <td align="center">
       <!-- Анимированный заголовок в стиле древнекитайской тематики -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96+SAMURAI_SPIRIT+v4.2.0+%E2%9C%94;%F0%9F%94%A5+FRONTEND_NINJA+%E2%9D%97;%F0%9F%92%BB+BACKEND_SENSEI+%E2%9C%A8" alt="Samurai Header" />
+      
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <!-- Заголовок TECH_ARSENAL с дополнительной анимацией -->
-      <h2 style="color: #FF69B4; text-shadow: 0 0 15px #FF1493; font-family: 'Courier New'">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqbXZycWJ4aGpnY2RxZGY1Z3ZyNHFocmRwenFvYWZ5bmE3OXltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rApKuVWCZZgvm/giphy.gif" width="50"> TECH_ARSENAL
-      </h2>
+         <h2 style="color: #FF69B4; text-shadow: 0 0 15px #FF1493; font-family: 'Courier New'">
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqbXZycWJ4aGpnY2RxZGY1Z3ZyNHFocmRwenFvYWZ5bmE3OXltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rApKuVWCZZgvm/giphy.gif" width="50"> TECH_ARSENAL
+          <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96+SAMURAI_SPIRIT+v4.2.0+%E2%9C%94;%F0%9F%94%A5+FRONTEND_NINJA+%E2%9D%97;%F0%9F%92%BB+BACKEND_SENSEI+%E2%9C%A8" alt="Samurai Header" />
+        </h2>
     </td>
   </tr>
 </table>
