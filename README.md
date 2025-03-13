@@ -53,7 +53,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="100%" alt="GitHub Stats">
+          <img src="https://readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="100%" alt="GitHub Stats">
         </a>
       </td>
       <td align="center">
@@ -65,12 +65,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&langs_count=10&private=true&bg_color=0d1117&hide_border=true&title_color=00FF9F&text_color=FFFFFF" width="100%" alt="Top Languages">
+          <img src="https://readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&langs_count=10&private=true&bg_color=0d1117&hide_border=true&title_color=00FF9F&text_color=FFFFFF" width="100%" alt="Top Languages">
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi">
-          <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical&no-frame=true&margin-w=5" width="100%" alt="GitHub Trophies">
+          <img src="https://profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical&no-frame=true&margin-w=5" width="100%" alt="GitHub Trophies">
         </a>
       </td>
     </tr>
