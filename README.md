@@ -48,22 +48,6 @@
 <div align="center">
 
 ### 🚀 GitHub Статистика 🚀  
-
-<a href="https://github.com/OlehBilenkyi?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%">
-</a>
-
-<a href="https://github.com/OlehBilenkyi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
-</a>
-
-### 🏆 Достижения и Языки  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&hide_border=true" width="49%">
-<img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical&no-frame=true&margin-w=5" width="49%">
-
-</div>
-/
 <div align="center" style="margin: 40px 0;">
   <table>
     <tr>
@@ -74,7 +58,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi">
-          <img src="https://github-readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="100%" alt="GitHub Streak Stats">
+          <img src="https://readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="100%" alt="GitHub Streak Stats">
         </a>
       </td>
     </tr>
@@ -88,36 +72,6 @@
     </tr>
   </table>
 </div>
-\
-<div align="center" style="margin: 40px 0;">
-
-  <!-- Верхний ряд -->
-  <div style="display: flex; gap: 15px; margin-bottom: 20px;">
-    <a href="https://github.com/OlehBilenkyi?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&random=<?=time()?>" 
-           width="400" 
-           style="border: 2px solid #FF00FF; border-radius: 10px;">
-    </a>
-
-    <a href="https://github.com/OlehBilenkyi">
-      <img src="https://streak-stats.demolab.com?user=OlehBilenkyi&theme=dark&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&dates=FFFFFF&random=<?=rand(1,9999)?>" 
-           width="400" 
-           style="border: 2px solid #00FF9F; border-radius: 10px;">
-    </a>
-  </div>
-
-  <!-- Нижний ряд -->
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&layout=compact" 
-         style="border: 2px solid #FF00FF; border-radius: 10px;">
-
-    <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical&margin-w=15&no-bg=true&no-frame=true" 
-         style="border: 2px solid #00FF9F; border-radius: 10px;">
-  </div>
-
-</div>
-
-
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
