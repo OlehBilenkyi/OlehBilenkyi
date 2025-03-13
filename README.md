@@ -47,12 +47,13 @@
 <!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center" style="margin: 40px 0;">
   <a href="https://github.com/OlehBilenkyi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00FF9F&icon_color=FF00FF&text_color=FFFFFF" width="49%" alt="GitHub Stats">
   </a>
   <a href="https://github.com/OlehBilenkyi?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%" alt="GitHub Streak Stats">
   </a>
 </div>
+
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
@@ -141,50 +142,95 @@
 ---
 
 ### 🌐 CONNECT WITH ME
-<div align="center">
-  <a href="https://t.me/OJIeja" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-CYBER_COMMS-00FF9F?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117&color=FF00FF">
-  </a>
-  <a href="https://www.linkedin.com/in/i3e-l-uy-95a55b177/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-NEURAL_NET-00FF9F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF00FF&color=0d1117">
-  </a>
-  <a href="mailto:I3eLuy@@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-DATA_PACKET-00FF9F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF00FF">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/OJIeja" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-CYBER_COMMS-00FF9F?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117&color=FF00FF" alt="Telegram">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/i3e-l-uy-95a55b177/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-NEURAL_NET-00FF9F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF00FF&color=0d1117" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:I3eLuy@@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-DATA_PACKET-00FF9F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF00FF" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 💼 PROFESSIONAL SKILLS
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-HYPER_MARKUP-FF5733?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/CSS3-CYBER_STYLES-2962FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/JavaScript-NEURO_SCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/PHP-SERVER_SORCERY-8892BF?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/MySQL-DATA_CRYPT-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-HYPER_MARKUP-FF5733?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-CYBER_STYLES-2962FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-NEURO_SCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" alt="JavaScript">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-SERVER_SORCERY-8892BF?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" alt="PHP">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-DATA_CRYPT-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ TOOLS AND TECHNOLOGIES
-<div align="center">
-  <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-628DFB?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117">
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117" alt="Composer">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-628DFB?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117" alt="Stripe">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=0d1117" alt="PHPMailer">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
+    </td>
+  </tr>
+</table>
 
-🎯 FUTURE GOALS
-<div align="center"> <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF00FF?style=for-the-badge&logo=atom&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/React_Native-0.71-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"> </div>
+### 🎯 FUTURE GOALS
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117" alt="AI">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF00FF?style=for-the-badge&logo=atom&logoColor=white&labelColor=0d1117" alt="ML">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="React">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_Native-0.71-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="React Native">
+    </td>
+  </tr>
+</table>
 
 ### 🌟 QUOTE OF THE DAY
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%E2%9C%A8+The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.+%E2%9C%A8">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%E2%9C%A8+The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.+%E2%9C%A8" alt="Quote of the Day">
 </div>
 
 ### 💡 INSPIRATION
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxbDQyZXY5amg4ZjI5dDdmYnhpazd3N2VmcjJibjE2b3Rpanl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxbDQyZXY5amg4ZjI5dDdmYnhpazd3N2VmcjJibjE2b3Rpanl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" width="300" alt="Inspiration">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
+  <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;" alt="Cyber Avatar">
 </div>
