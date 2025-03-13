@@ -63,12 +63,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical" width="100%" alt="Top Languages">
-      </td>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical" width="100%" alt="GitHub Trophies">
-      </td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&langs_count=10&hide=css,html&private=true" width="100%" alt="Top Languages">
+</td>
+<td align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical" width="100%" alt="GitHub Trophies">
+</td>
+
     </tr>
   </table>
 </div>
