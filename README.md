@@ -90,7 +90,7 @@
 
 <!-- CONNECT MATRIX с дополнительной анимацией -->
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> CONNECT_MATRIX
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYno2NmI5eHF5djRhaXpqYjZ2Z3ZpNXNjcnJvcGpsYzdudmJjMDV4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTeWOVI8shjIDTq9Yk/giphy.gif" width="50"> CONNECT_MATRIX 
 </h2>
 
 <div align="center">
@@ -184,5 +184,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
 </div>
