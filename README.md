@@ -41,7 +41,7 @@
 <!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center">
 
-### 🚀 GitHub Статистика 🚀  
+### 🚀 GitHub Статистика 🚀
 <div align="center" style="margin: 40px 0;">
   <table>
     <tr>
@@ -65,9 +65,6 @@
       </td>
   </table>
 </div>
-
-
-
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
@@ -93,12 +90,10 @@
   ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700)
 </div>
 
-
 ### ▮▮▮ ACTIVE HACKS
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
 | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777BB4) ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-0d1117?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-0d1117?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-0d1117?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700) |
-
 
 ### ▮▮▮ NEURAL EVOLUTION
 <div align="center">
@@ -110,7 +105,7 @@
 
 <!-- CONNECT MATRIX с дополнительной анимацией -->
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
 </h2>
 
 <div align="center">
