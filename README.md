@@ -165,11 +165,8 @@
   <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117">
 </div>
 
-### 🎯 FUTURE GOALS
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF00FF?style=for-the-badge&logo=atom&logoColor=white&labelColor=0d1117">
-</div>
+🎯 FUTURE GOALS
+<div align="center"> <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF00FF?style=for-the-badge&logo=atom&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"> <img src="https://img.shields.io/badge/React_Native-0.71-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"> </div>
 
 ### 🌟 QUOTE OF THE DAY
 <div align="center">
