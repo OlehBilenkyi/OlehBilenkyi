@@ -4,7 +4,7 @@
       <img src="assets/img/olehbilenkyi.jpeg" width="400">
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/xT9DPwVvbnC9qbOjmE/giphy.gif" width="100"><br>
       <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
     </td>
   </tr>
@@ -18,7 +18,7 @@
     <td colspan="2" align="center">
       <!-- Заголовок TECH_ARSENAL с дополнительной анимацией -->
       <h2 style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-        <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> TECH_ARSENAL
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> TECH_ARSENAL
       </h2>
     </td>
   </tr>
@@ -56,12 +56,12 @@
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> LIVE_HACKS
+  <img src="https://media.giphy.com/media/l0MYFHvnQXdIe9yQs/giphy.gif" width="40"> LIVE_HACKS
 </h2>
 
 ### ▮▮▮ TECH MATRIX
 <div align="center">
-  <img src="https://media.giphy.com/media/U7IxSYwucpNXJzWrqg/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40">
 
   ![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-0d1117?style=flat&logo=html5&logoColor=FF5733&labelColor=0d1117)
   ![CSS3](https://img.shields.io/badge/-CYBER_STYLES-0d1117?style=flat&logo=css3&logoColor=2962FF&labelColor=0d1117)
@@ -76,13 +76,13 @@
 </div>
 
 ### ▮▮▮ ACTIVE HACKS
-| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
+| <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
 | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777BB4) ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-0d1117?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-0d1117?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git&logoColor=F05032) |
 
 ### ▮▮▮ NEURAL EVOLUTION
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAxjQG/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150">
 
   ![AI Progress](https://img.shields.io/badge/DEEP_LEARNING_65%25-00FF9F?style=for-the-badge&logo=ai&logoColor=0d1117)
   ![ML](https://img.shields.io/badge/-NEURAL_NETWORKS-FF00FF?style=flat&logo=atom&logoColor=white)
@@ -90,7 +90,7 @@
 
 <!-- CONNECT MATRIX с дополнительной анимацией -->
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCUrfi/giphy.gif" width="50"> CONNECT_MATRIX
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> CONNECT_MATRIX
 </h2>
 
 <div align="center">
@@ -178,7 +178,7 @@
 
 ### 💡 INSPIRATION
 <div align="center">
-  <img src="https://media.giphy.com/media/26xBWDIxDbcsgAqD6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300">
 </div>
 
 ---
