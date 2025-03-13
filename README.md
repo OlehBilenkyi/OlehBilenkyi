@@ -53,13 +53,8 @@
   <a href="https://github.com/OlehBilenkyi">
     <img src="https://streak-stats.demolab.com?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
   </a>
-
-
-  <a href="https://github.com/OlehBilenkyi?tab=repositories">
-    <img src="https://streak-stats.demolab.com/?user=OlehBilenkyi&theme=radical&background=0d1117&hide_border=true&stroke=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%" alt="GitHub Streak Stats">
-</a>
-
 </div>
+
 
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
