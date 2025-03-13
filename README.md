@@ -51,8 +51,15 @@
   </a>
   
   <a href="https://github.com/OlehBilenkyi">
-    <img src="https://streak-stats.demolab.com?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
+    <img src="https://streak-stats.demolab.com/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="49%">
   </a>
+
+  <img src="https://github-readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=radical" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical" width="49%">
+      <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical" width="49%">
+
+
 </div>
 
 
