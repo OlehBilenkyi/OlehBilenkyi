@@ -61,7 +61,7 @@
 
 ### ▮▮▮ TECH MATRIX
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNxNGdzd3U4azAyMG5ucWxicnF2enBnZG54NWU2N3I5MmtleTh5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2fWvmhF4TiBGw/giphy.gif" width="70">
 
   ![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-0d1117?style=flat&logo=html5&logoColor=FF5733&labelColor=0d1117)
   ![CSS3](https://img.shields.io/badge/-CYBER_STYLES-0d1117?style=flat&logo=css3&logoColor=2962FF&labelColor=0d1117)
@@ -178,7 +178,7 @@
 
 ### 💡 INSPIRATION
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxbDQyZXY5amg4ZjI5dDdmYnhpazd3N2VmcjJibjE2b3Rpanl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" width="300">
 </div>
 
 ---
