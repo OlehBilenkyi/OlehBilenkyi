@@ -4,7 +4,7 @@
       <img src="assets/img/olehbilenkyi.jpeg" width="400">
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/xT9DPwVvbnC9qbOjmE/giphy.gif" width="100"><br>
+      <img src="https://media.giphy.com/media/l0MYFHvnQXdIe9yQs/giphy.gif" width="100"><br>
       <strong style="font-size: 24px; color: #00FF9F;">Oleh Bilenkyi</strong>
     </td>
   </tr>
