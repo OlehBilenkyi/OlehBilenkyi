@@ -132,3 +132,57 @@
 <div align="center">
   <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
 </div>
+
+---
+
+### 🌐 CONNECT WITH ME
+<div align="center">
+  <a href="https://t.me/OJIeja" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-CYBER_COMMS-00FF9F?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117&color=FF00FF">
+  </a>
+  <a href="https://www.linkedin.com/in/i3e-l-uy-95a55b177/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-NEURAL_NET-00FF9F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF00FF&color=0d1117">
+  </a>
+  <a href="mailto:I3eLuy@@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-DATA_PACKET-00FF9F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF00FF">
+  </a>
+</div>
+
+### 💼 PROFESSIONAL SKILLS
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-HYPER_MARKUP-FF5733?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/CSS3-CYBER_STYLES-2962FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/JavaScript-NEURO_SCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/PHP-SERVER_SORCERY-8892BF?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/MySQL-DATA_CRYPT-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117">
+</div>
+
+### 🛠️ TOOLS AND TECHNOLOGIES
+<div align="center">
+  <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-628DFB?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117">
+</div>
+
+### 🎯 FUTURE GOALS
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF00FF?style=for-the-badge&logo=atom&logoColor=white&labelColor=0d1117">
+</div>
+
+### 🌟 QUOTE OF THE DAY
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%E2%9C%A8+The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.+%E2%9C%A8">
+</div>
+
+### 💡 INSPIRATION
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBWDIxDbcsgAqD6/giphy.gif" width="300">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
+</div>
