@@ -1,14 +1,11 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="assets/img/olehbilenkyi.jpeg" width="400">
+      <img src="assets/img/olehbilenkyi.jpeg" width="200">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- Анимированный заголовок в стиле древнекитайской тематики -->
-      
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
