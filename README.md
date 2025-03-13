@@ -58,21 +58,25 @@
       </td>
       <td align="center">
         <a href="https://github.com/OlehBilenkyi">
-          <img src="https://readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="100%" alt="GitHub Streak Stats">
+          <img src="https://readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0D1117&border=FF00FF&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" width="100%" alt="GitHub Streak Stats">
         </a>
       </td>
     </tr>
     <tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&langs_count=10&hide=css,html&private=true" width="100%" alt="Top Languages">
-</td>
-<td align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical" width="100%" alt="GitHub Trophies">
-</td>
-
+      <td align="center">
+        <a href="https://github.com/OlehBilenkyi?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=radical&layout=compact&langs_count=10&private=true&bg_color=0d1117&hide_border=true&title_color=00FF9F&text_color=FFFFFF" width="100%" alt="Top Languages">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/OlehBilenkyi">
+          <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=radical&no-frame=true&margin-w=5" width="100%" alt="GitHub Trophies">
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
 
 <!-- Раздел ACTIVE HACKS с анимацией -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
