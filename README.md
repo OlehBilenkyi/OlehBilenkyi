@@ -37,7 +37,9 @@
   </table>
 </div>
 
-
+<h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
+</h2>
 
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
@@ -45,46 +47,13 @@
 
 
 
-<!-- CONNECT MATRIX с дополнительной анимацией -->
-<h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
-</h2>
-
-<div align="center">
-  <a href="https://t.me/OJIeja">
-    <img src="https://img.shields.io/badge/-CYBER_COMMS-0d1117?style=for-the-badge&logo=telegram&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  </a>
-  <a href="https://www.linkedin.com/in/i3e-l-uy-95a55b177/" target="_blank">
-    <img src="https://img.shields.io/badge/NEURAL_NET-00FF9F?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FF00FF&color=0d1117">
-  </a>
-  <a href="mailto:I3eLuy@@gmail.com">
-    <img src="https://img.shields.io/badge/-DATA_PACKET-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  </a>
-</div>
-
-<!-- ASCII ART с анимацией -->
-<pre align="center" style="color: #00FF9F; text-shadow: 0 0 10px #FF00FF;">
-╔═╗╦ ╦╔═╗╔╗╔╔╦╗  ╔═╗╔═╗╦═╗╔═╗╔╦╗
-║ ╦║ ║╠═╣║║║ ║║  ╠═╝║ ║╠╦╝║╣  ║
-╚═╝╚═╝╩ ╩╝╚╝═╩╝  ╩  ╚═╝╩╚═╚═╝ ╩
-</pre>
 
 <!-- Финальный анимированный блок -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00FF9F&background=FF00FF00&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00FF9F&background=FF00FF00&center=true&vCenter=true&width=600&height=80&lines=%C2%A9+2023+BY+OLEH+BILENKYI+%E2%80%94+ALL+SYSTEMS+OPERATIONAL;🚀+Code+Gladiator+Seeking+New+Battles;⚙️+Fullstack+Circuitry+Specialist;🔥+Teamplay+Protocol+Enabled;💻+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
 </h1>
 
-<!-- Статус системы -->
-<p align="center">
-  + [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] SYSTEM_STABILITY: 99.98% &nbsp;&nbsp; - [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅] ERROR_RATE: 0.02%
-</p>
-
-<!-- Финальный анимированный текст с копирайтом -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF00FF&background=0D1117&center=true&vCenter=true&width=680&lines=%C2%A9%202023%20BY%20OLEH%20BILENKYI%20%E2%80%94%20ALL%20SYSTEMS%20OPERATIONAL">
-</p>
 
 <div align="center">
   <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #00FF9F; border-radius: 50%; box-shadow: 0 0 50px #FF00FF;">
