@@ -2,15 +2,12 @@
 
 <!-- Динамический приветственный текст -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=30&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+World!;Developer+with+Passion!;I+build+futuristic+web+apps+with+soul!;Crafting+experiences+as+if+for+myself!" alt="Typing Animation">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=35&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96+SAMURAI_SPIRIT+v4.2.0+%E2%9C%94;%F0%9F%94%A5+FRONTEND_NINJA+%E2%9D%97;%F0%9F%92%BB+BACKEND_SENSEI+%E2%9C%A8;🚀+Welcome+to+my+World!;Developer+with+Passion!;I+build+futuristic+web+apps+with+soul!;Crafting+experiences+as+if+for+myself!;%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
+</div>
+
 </h1>
 
-<!-- Второй анимированный блок с информацией о навыках -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF9F&size=30&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
-</h1>
-
-<!-- Технический арсенал с неоновыми бейджами -->
 
 
 <!-- Небольшой раздел с динамической статистикой GitHub -->
@@ -40,28 +37,10 @@
   </table>
 </div>
 
-<!-- Раздел ACTIVE HACKS с анимацией -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px #00FF9F; font-family: 'Courier New'">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNlNTUzZzA0bTJ6d3BmMDg5YmpxMzZmaXBvYzVncGVoNXRpemdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="40"> LIVE_HACKS
-</h2>
 
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNxNGdzd3U4azAyMG5ucWxicnF2enBnZG54NWU2N3I5MmtleTh5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2fWvmhF4TiBGw/giphy.gif" width="70">
 
-  ![HTML5](https://img.shields.io/badge/-HYPER_MARKUP-0d1117?style=flat&logo=html5&logoColor=FF5733&labelColor=0d1117)
-  ![CSS3](https://img.shields.io/badge/-CYBER_STYLES-0d1117?style=flat&logo=css3&logoColor=2962FF&labelColor=0d1117)
-  ![JavaScript](https://img.shields.io/badge/-NEURO_SCRIPT-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![PHP](https://img.shields.io/badge/-SERVER_SORCERY-0d1117?style=flat&logo=php&logoColor=8892BF)
-  ![MySQL](https://img.shields.io/badge/-DATA_CRYPT-0d1117?style=flat&logo=mysql&logoColor=4479A1)
-  ![AI](https://img.shields.io/badge/-NEURAL_LEARNING-0d1117?style=flat&logo=ai&logoColor=FF00FF&labelColor=0d1117)
-  ![Composer](https://img.shields.io/badge/-CODE_ALCHEMY-0d1117?style=flat&logo=composer&logoColor=885630)
-  ![Stripe](https://img.shields.io/badge/-DIGITAL_PAYMENTS-0d1117?style=flat&logo=stripe&logoColor=628DFB)
-  ![PHPMailer](https://img.shields.io/badge/-MAIL_WIZARDRY-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B)
-  ![Git](https://img.shields.io/badge/-CODE_VERSIONING-0d1117?style=flat&logo=git&logoColor=F05032)
-  ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-0d1117?style=flat&logo=google&logoColor=4285F4)
-  ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700)
-</div>
+<
 
 
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
@@ -139,6 +118,7 @@
 </table>
 
 ### 💼 PROFESSIONAL SKILLS
+### 💼 PROFESSIONAL SKILLS
 <table align="center">
   <tr>
     <td align="center">
@@ -157,7 +137,33 @@
       <img src="https://img.shields.io/badge/MySQL-DATA_CRYPT-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="AI">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117" alt="Composer">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-628DFB?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117" alt="Stripe">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=0d1117" alt="PHPMailer">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_OAuth-GOOGLE_AUTH-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Google OAuth">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSRF_Protection-SECURITY-FFD700?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117" alt="CSRF Protection">
+    </td>
+  </tr>
 </table>
+
 
 ### 🛠️ TOOLS AND TECHNOLOGIES
 <table align="center">
