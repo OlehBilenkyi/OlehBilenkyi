@@ -16,7 +16,6 @@
 <!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center">
 
-### 🚀 GitHub Статистика 🚀
 <div align="center" style="margin: 40px 0;">
   <table style="background-color: black;">
     <tr>
@@ -46,7 +45,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNlNTUzZzA0bTJ6d3BmMDg5YmpxMzZmaXBvYzVncGVoNXRpemdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="40"> LIVE_HACKS
 </h2>
 
-### ▮▮▮ TECH MATRIX
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNxNGdzd3U4azAyMG5ucWxicnF2enBnZG54NWU2N3I5MmtleTh5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2fWvmhF4TiBGw/giphy.gif" width="70">
@@ -65,7 +63,7 @@
   ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700)
 </div>
 
-### ▮▮▮ ACTIVE HACKS
+
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
 | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777BB4) ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-0d1117?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-0d1117?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-0d1117?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700) |
