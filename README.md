@@ -1,22 +1,4 @@
-<table style="background-color: black; width: 100%;">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="assets/img/olehbilenkyi.jpeg" height="200" width="650">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Заголовок TECH_ARSENAL с дополнительной анимацией -->
-         <h2 style="color: #FF69B4; text-shadow: 0 0 15px #FF1493; font-family: 'Courier New'">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhqbXZycWJ4aGpnY2RxZGY1Z3ZyNHFocmRwenFvYWZ5bmE3OXltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rApKuVWCZZgvm/giphy.gif" width="50"> TECH_ARSENAL
-          <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=40&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96+SAMURAI_SPIRIT+v4.2.0+%E2%9C%94;%F0%9F%94%A5+FRONTEND_NINJA+%E2%9D%97;%F0%9F%92%BB+BACKEND_SENSEI+%E2%9C%A8" alt="Samurai Header" />
-        </h2>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Динамический приветственный текст -->
 <h1 align="center">
@@ -29,14 +11,7 @@
 </h1>
 
 <!-- Технический арсенал с неоновыми бейджами -->
-<div align="center">
-  <img src="https://img.shields.io/badge/-NEON_CORE-0d1117?style=for-the-badge&logo=html5&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  <img src="https://img.shields.io/badge/-SYNTHWAVE_STYLES-0d1117?style=for-the-badge&logo=css3&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  <img src="https://img.shields.io/badge/-NEURO_SCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  <br>
-  <img src="https://img.shields.io/badge/-SERVER_SORCERY-0d1117?style=for-the-badge&logo=php&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-  <img src="https://img.shields.io/badge/-DATA_CRYPT-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF9F&labelColor=0d1117&color=FF00FF">
-</div>
+
 
 <!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center">
@@ -95,13 +70,7 @@
 |--------------|--------|------------|
 | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-00FF9F?style=flat&logo=probot&logoColor=0d1117) | ![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat&logo=php&logoColor=777BB4) ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-0d1117?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-0d1117?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-0d1117?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-0d1117?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-0d1117?style=flat&logo=shield&logoColor=FFD700) |
 
-### ▮▮▮ NEURAL EVOLUTION
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGQzY2RscGdrdDRtMXNua2I5eWswMmpta2JsNnVtaHpzeXZxb3dnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="150">
 
-  ![AI Progress](https://img.shields.io/badge/DEEP_LEARNING_65%25-00FF9F?style=for-the-badge&logo=ai&logoColor=0d1117)
-  ![ML](https://img.shields.io/badge/-NEURAL_NETWORKS-FF00FF?style=flat&logo=atom&logoColor=white)
-</div>
 
 <!-- CONNECT MATRIX с дополнительной анимацией -->
 <h2 align="center" style="color: #00FF9F; text-shadow: 0 0 15px #FF00FF; font-family: 'Courier New'">
