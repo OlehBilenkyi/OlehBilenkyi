@@ -58,7 +58,7 @@
     <tr>
       <td align="center">
         <a href="https://t.me/OJIeja" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-CYBER_COMMS-FF69B4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FFFFFF&color=FF69B4" alt="Telegram">
+          <img src="https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white&labelColor=FFFFFF&color=FF69B4" alt="Telegram">
         </a>
       </td>
       <td align="center">
