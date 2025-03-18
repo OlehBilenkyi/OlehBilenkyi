@@ -1,49 +1,63 @@
-### 你好, путешественник в коде! 👾
+# 🌸 你好！Добро пожаловать! 👋
+
+## 🏯 Олег | Junior Web Developer | 侍
+
+Привет! Я начинающий веб-разработчик, увлеченный созданием современных и удобных веб-приложений. Моя цель — совершенствовать навыки и разрабатывать масштабируемые, эффективные решения.
 
 ---
 
-```ascii
-      ██╗    ██╗██╗██████╗ ███████╗██████╗  █████╗ ███╗   ██╗██╗  ██╗
-      ██║    ██║██║██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗  ██║██║  ██║
-      ██║ █╗ ██║██║██████╔╝█████╗  ██████╔╝███████║██╔██╗ ██║███████║
-      ██║███╗██║██║██╔═══╝ ██╔══╝  ██╔═══╝ ██╔══██║██║╚██╗██║██╔══██║
-      ╚███╔███╔╝██║██║     ███████╗██║     ██║  ██║██║ ╚████║██║  ██║
-       ╚══╝╚══╝ ╚═╝╚═╝     ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+## ⚔️ Мои технологии:
 
-> **_Code is a tool, but vision is the key._**
+### 🌐 Frontend:
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- TailwindCSS
+- Vue.js (изучаю)
 
----
+### 💾 Backend:
+- PHP (Laravel в процессе изучения)
+- Node.js (Express в перспективе)
 
-### 🚀 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-
-🛠 **Current Projects:**
-- 🔹 **АндрюхиСайт**: Полная модернизация системы заказов, оплаты и личного кабинета.
-- 🔹 **Аренда авто под такси**: Разработка сайта с админ-панелью и системой заявок.
+### 🛠️ Инструменты:
+- Git & GitHub
+- Figma
+- Webpack/Vite
+- Postman
 
 ---
 
-### 🧩 Key Principles:
-- 🔥 Чистый, структурированный и оптимизированный код.
-- 🏗️ Гибкость, масштабируемость и безопасность.
-- 🎯 Минимализм в UI, максимум в UX.
+## 🐉 О чем этот профиль?
+
+- 🔥 Здесь ты найдешь мои проекты и эксперименты в веб-разработке.
+- 📜 Я изучаю лучшие практики программирования и делюсь кодом.
+- 🌱 Сейчас я совершенствую свои знания в бэкенде и продолжаю изучать Vue.js.
 
 ---
 
-### 📡 Connect:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername)
+## 📜 Мои проекты:
+
+### 🚗 [Аренда авто под такси](#)
+> Веб-сайт для аренды автомобилей с админ-панелью, заявками и уведомлениями.
+
+### 🍱 [Система заказов «АндрюхиСайт»](#)
+> Умная система обработки заказов еды с личным кабинетом клиентов и Stripe-платежами.
 
 ---
 
-### 🎶 Now Playing:
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)
+## 🎯 Цели на 2025 год:
+- 🏹 Улучшить навыки работы с PHP и Laravel.
+- 🎨 Освоить Vue.js и создать SPA-проект.
+- 🏗 Разработать собственный Open Source проект.
+- 🌍 Участвовать в хакатонах и open-source разработке.
 
 ---
 
-> _"The only way to do great work is to love what you do." — Steve Jobs_
+## 🏮 Контакты:
+- 📩 **Email:** oleg.dev@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/oleg-dev](#)
+- 🐙 **GitHub:** [github.com/OlegSamurai](#)
+
+---
+
+> «Путь самурая — это путь кода. Дисциплина, практика и непрерывное совершенствование.» ⛩
+
