@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AI?style=for-the-badge&logo=openai&logoColor=white&labelColor=FFFFFF" alt="AI">
+        <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF69B4?style=for-the-badge&logo=openai&logoColor=white&labelColor=FFFFFF" alt="AI">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-FF69B4?style=for-the-badge&logo=composer&logoColor=white&labelColor=FFFFFF" alt="Composer">
