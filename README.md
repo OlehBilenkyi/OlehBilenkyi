@@ -36,120 +36,34 @@
   |--------------|--------|------------|
   | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
 
-  ---
+# ✨ О себе
+Я Junior Web Developer, специализируюсь на backend и frontend разработке. Интересуюсь современными веб-технологиями, безопасностью и автоматизацией. Работал с PHP, JavaScript, MySQL, Stripe API, PHPMailer и другими инструментами.
 
-  ### 🌐 CONNECT WITH ME
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://t.me/OJIeja" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-CYBER_COMMS-FF69B4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FFFFFF&color=FF69B4" alt="Telegram">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/i3e-l-uy-95a55b177/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-NEURAL_NET-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFFFFF&color=FF69B4" alt="LinkedIn">
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:I3eLuy@@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-DATA_PACKET-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFFFFF&color=FF69B4" alt="Gmail">
-        </a>
-      </td>
-    </tr>
-  </table>
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i3e-l-uy-95a55b177/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com)
 
-  ### 💼 PROFESSIONAL SKILLS
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-HYPER_MARKUP-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFFFFF" alt="HTML5">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CSS3-CYBER_STYLES-FF69B4?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFFFFF" alt="CSS3">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-NEURO_SCRIPT-FF69B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFFFFF" alt="JavaScript">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PHP-SERVER_SORCERY-FF69B4?style=for-the-badge&logo=php&logoColor=white&labelColor=FFFFFF" alt="PHP">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MySQL-DATA_CRYPT-FF69B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFFFFF" alt="MySQL">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF69B4?style=for-the-badge&logo=openai&logoColor=white&labelColor=FFFFFF" alt="AI">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-FF69B4?style=for-the-badge&logo=composer&logoColor=white&labelColor=FFFFFF" alt="Composer">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-FF69B4?style=for-the-badge&logo=stripe&logoColor=white&labelColor=FFFFFF" alt="Stripe">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FF69B4?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=FFFFFF" alt="PHPMailer">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=FFFFFF" alt="Git">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Google_OAuth-GOOGLE_AUTH-FF69B4?style=for-the-badge&logo=google&logoColor=white&labelColor=FFFFFF" alt="Google OAuth">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CSRF_Protection-SECURITY-FF69B4?style=for-the-badge&logo=shield&logoColor=white&labelColor=FFFFFF" alt="CSRF Protection">
-      </td>
-    </tr>
-  </table>
+## 🛠️ Технологии
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ### 🛠️ TOOLS AND TECHNOLOGIES
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Composer-CODE_ALCHEMY-FF69B4?style=for-the-badge&logo=composer&logoColor=white&labelColor=FFFFFF" alt="Composer">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Stripe-DIGITAL_PAYMENTS-FF69B4?style=for-the-badge&logo=stripe&logoColor=white&labelColor=FFFFFF" alt="Stripe">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PHPMailer-MAIL_WIZARDRY-FF69B4?style=for-the-badge&logo=mailchimp&logoColor=white&labelColor=FFFFFF" alt="PHPMailer">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-CODE_VERSIONING-FF69B4?style=for-the-badge&logo=git&logoColor=white&labelColor=FFFFFF" alt="Git">
-      </td>
-    </tr>
-  </table>
+**Backend:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  ### 🎯 FUTURE GOALS
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI-NEURAL_LEARNING-FF69B4?style=for-the-badge&logo=ai&logoColor=white&labelColor=FFFFFF" alt="AI">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/ML-NEURAL_NETWORKS-FF69B4?style=for-the-badge&logo=atom&logoColor=white&labelColor=FFFFFF" alt="ML">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-18-FF69B4?style=for-the-badge&logo=react&logoColor=white&labelColor=FFFFFF" alt="React">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React_Native-0.71-FF69B4?style=for-the-badge&logo=react&logoColor=white&labelColor=FFFFFF" alt="React Native">
-      </td>
-    </tr>
-  </table>
+**Инструменты:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-  ### 🌟 QUOTE OF THE DAY
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=3000&color=FF69B4&background=FFFFFF&center=true&vCenter=true&width=680&lines=%E2%9C%A8+The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.+%E2%9C%A8" alt="Quote of the Day">
-  </div>
-
-  ### 💡 INSPIRATION
-  <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxbDQyZXY5amg4ZjI5dDdmYnhpazd3N2VmcjJibjE2b3Rpanl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" width="300" alt="Inspiration">
-  </div>
+## 🎯 Цели
+- Освоить **React** и **React Native**  
+- Развивать навыки в **искусственном интеллекте и машинном обучении**  
+- Улучшать архитектуру и безопасность веб-приложений
 
   ---
 
