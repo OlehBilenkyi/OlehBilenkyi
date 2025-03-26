@@ -1,11 +1,7 @@
-<!-- Динамический приветственный текст -->
-<h1 align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&size=35&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%96%96+SAMURAI_SPIRIT+v4.2.0+%E2%9C%94;%F0%9F%94%A5+FRONTEND_NINJA+%E2%9D%97;%F0%9F%92%BB+BACKEND_SENSEI+%E2%9C%A8;🚀+Welcome+to+my+World!;Developer+with+Passion!;I+build+futuristic+web+apps+with+soul!;Crafting+experiences+as+if+for+myself!;%F0%9F%9A%80+Code+Gladiator+Seeking+New+Battles;%E2%9A%99%EF%B8%8F+Fullstack+Circuitry+Specialist;%F0%9F%94%A5+Teamplay+Protocol+Enabled;%F0%9F%92%BB+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
-</div>
-</h1>
+  <div align="center">
+    <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
+  </div>
 
-<!-- Небольшой раздел с динамической статистикой GitHub -->
 <div align="center">
   <div align="center" style="margin: 40px 0;">
     <table style="background-color: white;">
@@ -39,17 +35,6 @@
   | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
   |--------------|--------|------------|
   | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
-
-  <!-- Финальный анимированный блок -->
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=%C2%A9+2023+BY+OLEH+BILENKYI+%E2%80%94+ALL+SYSTEMS+OPERATIONAL;🚀+Code+Gladiator+Seeking+New+Battles;⚙️+Fullstack+Circuitry+Specialist;🔥+Teamplay+Protocol+Enabled;💻+API+Alchemist+%26+UI+Shaman" alt="Typing Animation">
-    </a>
-  </h1>
-
-  <div align="center">
-    <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
-  </div>
 
   ---
 
