@@ -1,4 +1,4 @@
-.  <div align="center">
+<div align="center">
     <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
   </div>
 
