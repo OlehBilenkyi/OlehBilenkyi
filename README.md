@@ -50,22 +50,32 @@ const Oleg = {
 # 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,git,github,mysql,stripe,vscode" />
 </div>
 
 ## 🔥 Core Stack
-**Frontend**  
+
+**Frontend Matrix**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**  
+**Backend Nexus**  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**  
+**Dev Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white)
+
+**APIs & Services**  
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/OAuth2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Security Shield**  
+![CSRF Protection](https://img.shields.io/badge/CSRF_Protection-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 # 📬 Cyber Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
