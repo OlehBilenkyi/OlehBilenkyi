@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=const+Oleh+=+{;role%3A+'CODE_SAMURAI'%2C;focus%3A+'Forging+my+path+to+Fullstack+Enlightenment'%2C;mismission%3A+"Programming_is_an_endless_odyssey_of_learning"'};" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=const+Oleh+=+{;role%3A+'CODE_SAMURAI'%2C;focus%3A+'Forging+my+path+to+Fullstack+Enlightenment'%2C;mission%3A+'"Programming_is_an_endless_odyssey_of_learning"'};" alt="Typing SVG" />
   </a>
 </div>
 
@@ -85,7 +85,7 @@
 ## 🌌 Cosmic Goals
 
 - 🚀 Master **React & React Native**  
-- 🤖 Learn the **Go <img src="https://skillicons.dev/icons?i=ai" />  ** programming language  
+- 🤖 Learn the **Go ** <img src="https://skillicons.dev/icons?i=ai" />  programming language  
 - 🔐 Build **Secure Cyber Architecture**  
  
 
