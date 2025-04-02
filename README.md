@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
-  </div>
+</div>
 
 <div align="center">
   <div align="center" style="margin: 40px 0;">
@@ -65,9 +65,40 @@
 - Развивать навыки в **искусственном интеллекте и машинном обучении**  
 - Улучшать архитектуру и безопасность веб-приложений
 
-  ---
+---
 
-  <div align="center">
+## 🛠️ Technical Skills
+
+**Frontend:**  
+- HTML5, CSS3, JavaScript (ES6+), React (beginner)
+
+**Backend:**  
+- Node.js (beginner), PHP (basic)
+
+**Version Control:**  
+- Git, GitHub
+
+**Tools & Workflow:**  
+- Trello, Figma
+
+**Soft Skills:**  
+- Problem-solving, teamwork, adaptability, communication
+
+---
+
+## 📦 Dependencies
+The following libraries and tools are used in my projects:
+
+- `graham-campbell/result-type`
+- `phpmailer/phpmailer`
+- `phpoption/phpoption`
+- `symfony/polyfill-ctype`
+- `symfony/polyfill-php80`
+- `vlucas/phpdotenv`
+
+---
+
+<div align="center">
     <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;" alt="Cyber Avatar">
-  </div>
+</div>
 </div>
