@@ -1,22 +1,23 @@
-<div align="center">
-    <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
-</div>
+<div align="left">
 
-# 💻 Cybernetic Journey
+## 🧬 <code style="color:#FF69B4">CYBERGENESIS PROTOCOL</code> 🔥  
+diff
++█████████████████████████████████████████████████
++█▄─▄▄▀█▄─▄▄▀█─▄▄─█▄─▀█▀─▄█▄─▄▄─█▄─▄▄▀█▄─█─▄█▄─▄▄─█
++██─▄─▄██─██─█─██─██─█▄█─███─▄█▀██─▄─▄██▄─▄███─▄▄▄█
++▀▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀
 
-## ⚡️ 𝗖𝗢𝗗𝗘 𝗗𝗘𝗖𝗟𝗔𝗥𝗔𝗧𝗜𝗢𝗡 🌀
-  <pre>
-<div>
-▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
-🔴 𝚌𝚘𝚗𝚜𝚝  [32mOleh[0m = { 
-   🟣 𝗿𝗼𝗹𝗲: "💻 Cyber Developer", 
-   🟣 𝗳𝗼𝗰𝘂𝘀: "🎯 Fullstack Mastery", 
-   🟣 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻: "🌌 Continuous Learning" 
+![[![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical)](https://github.com/OlehBilenkyi/github-readme-stats)
+
+js
+// ⚡️ ENERGY CORE INITIALIZATION ⚡️
+const CyberOleh = () => {
+  return {
+    🔥 role: "Code Samurai", 
+    💻 focus: "Forging my path to Fullstack Enlightenment", 
+    🛡️ position: "Programming is an endless odyssey of learning"
+  }
 }
-▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
-
-  </pre>
-</div>
 
 <div align="center">
   <div align="center" style="margin: 40px 0;">
