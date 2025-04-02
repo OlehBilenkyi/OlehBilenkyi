@@ -6,11 +6,14 @@
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
   <pre style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white; font-family: 'Courier New', monospace;">
+<pre>
 <span style="color: #e06c75;">const</span> <span style="color: #98c379;">Oleh</span> = {
   <span style="color: #61afef;">role</span>: <span style="color: #e6db74;">"Code Samurai"</span>,
   <span style="color: #61afef;">focus</span>: <span style="color: #e6db74;">"Forging my path to Fullstack Enlightenment"</span>,
   <span style="color: #61afef;">position</span>: <span style="color: #e6db74;">"Programming is an endless odyssey of learning"</span>
 }
+</pre>
+
   </pre>
 </div>
 
