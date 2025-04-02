@@ -4,33 +4,15 @@
 
 # 💻 Cybernetic Journey
 
-<div align="center" style="
-    background: linear-gradient(45deg, #1a1a1a, #2d2d2d);
-    padding: 2rem;
-    border-radius: 15px;
-    border: 2px solid #FF69B4;
-    box-shadow: 0 0 25px #FF69B4;
-    margin: 2rem 0;
-">
-    <div style="
-        font-family: 'Courier New', monospace;
-        font-size: 1.2rem;
-        text-align: left;
-        color: #fff;
-        position: relative;
-    ">
-        <span style="color: #FF5555;">const</span> 
-        <span style="color: #55FF55;">Oleh</span> 
-        <span style="color: #888;">= {</span><br>
-        &nbsp;&nbsp;<span style="color: #FF69B4;">role</span><span style="color: #888;">:</span> 
-        <span style="color: #FFFF55;">"Code Samurai"</span><span style="color: #888;">,</span><br>
-        &nbsp;&nbsp;<span style="color: #FF69B4;">focus</span><span style="color: #888;">:</span> 
-        <span style="color: #FFFF55;">"Forging my path to Fullstack Enlightenment"</span><span style="color: #888;">,</span><br>
-        &nbsp;&nbsp;<span style="color: #FF69B4;">position</span><span style="color: #888;">:</span> 
-        <span style="color: #FFFF55;">"Programming is an endless odyssey of learning"</span><br>
-        <span style="color: #888;">}</span>
-    </div>
-</div>
+## ⚡️ 𝗖𝗢𝗗𝗘 𝗗𝗘𝗖𝗟𝗔𝗥𝗔𝗧𝗜𝗢𝗡 🌀
+
+▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
+🔴 𝚌𝚘𝚗𝚜𝚝  [32mOleh[0m = { 
+   🟣 𝗿𝗼𝗹𝗲: "💻 Cyber Developer", 
+   🟣 𝗳𝗼𝗰𝘂𝘀: "🎯 Fullstack Mastery", 
+   🟣 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻: "🌌 Continuous Learning" 
+}
+▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
 
   </pre>
 </div>
