@@ -1,15 +1,13 @@
 <div align="left">
 
 ## 🧬 <code style="color:#FF69B4">CYBERGENESIS PROTOCOL</code> 🔥  
-diff
-+█████████████████████████████████████████████████
-+█▄─▄▄▀█▄─▄▄▀█─▄▄─█▄─▀█▀─▄█▄─▄▄─█▄─▄▄▀█▄─█─▄█▄─▄▄─█
-+██─▄─▄██─██─█─██─██─█▄█─███─▄█▀██─▄─▄██▄─▄███─▄▄▄█
-+▀▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀
 
-![[![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical)](https://github.com/OlehBilenkyi/github-readme-stats)
+█████████████████████████████████████████████████
+█▄─▄▄▀█▄─▄▄▀█─▄▄─█▄─▀█▀─▄█▄─▄▄─█▄─▄▄▀█▄─█─▄█▄─▄▄─█
+██─▄─▄██─██─█─██─██─█▄█─███─▄█▀██─▄─▄██▄─▄███─▄▄▄█
+▀▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▀▀
 
-js
+
 // ⚡️ ENERGY CORE INITIALIZATION ⚡️
 const CyberOleh = () => {
   return {
