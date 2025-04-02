@@ -10,21 +10,7 @@
   </a>
 </div>
 
-## 🔥 LIVE STATS FEED
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/OlehBilenkyi?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=FF69B4&icon_color=FF69B4">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/OlehBilenkyi">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehBilenkyi&theme=radical&background=0d1117&border=FF69B4&stroke=FF69B4">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <div align="center">
   <div align="center" style="margin: 40px 0;">
@@ -63,7 +49,7 @@
 # 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,git,github,mysql,stripe,vscode,ai,ps,figma" />  
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,git,github,mysql,vscode,ps,figma" />  
 </div>
 </div>
 
@@ -99,8 +85,9 @@
 ## 🌌 Cosmic Goals
 
 - 🚀 Master **React & React Native**  
-- 🤖 Изучить язык программирования **Go** ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)  
+- 🤖 Learn the **Go** programming language  <img src="https://skillicons.dev/icons?i=ai" />  
 - 🔐 Build **Secure Cyber Architecture**  
+ 
 
 ---
 
