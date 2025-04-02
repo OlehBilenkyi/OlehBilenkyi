@@ -1,6 +1,17 @@
+```markdown
 <div align="center">
     <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;">
 </div>
+
+# 💻 Cybernetic Journey
+
+```javascript
+const Oleg = { 
+  role: "Code Samurai",
+  focus: "Forging my path to Fullstack Enlightenment",
+  position: "Programming is an endless odyssey of learning"
+}
+```
 
 <div align="center">
   <div align="center" style="margin: 40px 0;">
@@ -32,73 +43,43 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
   </h2>
 
-  | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
-  |--------------|--------|------------|
-  | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
+| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
+|--------------|--------|------------|
+| **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
 
-# ✨ О себе
-Я Junior Web Developer, специализируюсь на backend и frontend разработке. Интересуюсь современными веб-технологиями, безопасностью и автоматизацией. Работал с PHP, JavaScript, MySQL, Stripe API, PHPMailer и другими инструментами.
+# 🚀 Tech Arsenal
 
-## 📫 Контакты
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,git,github,mysql,vscode" />
+</div>
+
+## 🔥 Core Stack
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+# 📬 Cyber Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i3e-l-uy-95a55b177/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com)
 
-## 🛠️ Технологии
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Инструменты:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![PHPMailer](https://img.shields.io/badge/PHPMailer-Mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-## 🎯 Цели
-- Освоить **React** и **React Native**  
-- Развивать навыки в **искусственном интеллекте и машинном обучении**  
-- Улучшать архитектуру и безопасность веб-приложений
-
----
-
-## 🛠️ Technical Skills
-
-**Frontend:**  
-- HTML5, CSS3, JavaScript (ES6+), React (beginner)
-
-**Backend:**  
-- Node.js (beginner), PHP (basic)
-
-**Version Control:**  
-- Git, GitHub
-
-**Tools & Workflow:**  
-- Trello, Figma
-
-**Soft Skills:**  
-- Problem-solving, teamwork, adaptability, communication
-
----
-
-## 📦 Dependencies
-The following libraries and tools are used in my projects:
-
-- `graham-campbell/result-type`
-- `phpmailer/phpmailer`
-- `phpoption/phpoption`
-- `symfony/polyfill-ctype`
-- `symfony/polyfill-php80`
-- `vlucas/phpdotenv`
+# 🌌 Cosmic Goals
+- Master **React & React Native**  
+- Explore **AI/ML Frontiers**  
+- Build **Secure Cyber Architecture**
 
 ---
 
 <div align="center">
-    <img src="https://github.com/OlehBilenkyi/OlehBilenkyi/blob/main/assets/cyber-avatar.gif?raw=true" width="300" style="border: 3px solid #FF69B4; border-radius: 50%; box-shadow: 0 0 50px #FF69B4;" alt="Cyber Avatar">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk0dXQ4M2FneHp2YjN5a2F6YzM4aXJjNnQ4MXQ4N3JvMjZ3eXo4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </div>
-</div>
+```
