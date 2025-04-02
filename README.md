@@ -4,13 +4,16 @@
 
 # 💻 Cybernetic Journey
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
-  <pre style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white; font-family: 'Courier New', monospace;">
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
+  <pre style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white; font-family: 'Courier New', monospace; text-align: left;">
 <span style="color: #e06c75;">const</span> <span style="color: #98c379;">Oleh</span> = {
   <span style="color: #61afef;">role</span>: <span style="color: #e6db74;">"Code Samurai"</span>,
   <span style="color: #61afef;">focus</span>: <span style="color: #e6db74;">"Forging my path to Fullstack Enlightenment"</span>,
   <span style="color: #61afef;">position</span>: <span style="color: #e6db74;">"Programming is an endless odyssey of learning"</span>
 }
+  </pre>
+</div>
+
   </pre>
 </div>
 
@@ -44,9 +47,117 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
   </h2>
 
-| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
-|--------------|--------|------------|
-| **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
+Copy
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK | DESCRIPTION |
+ |--------------|--------|------------|-------------|
+ | **[foodCatering](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_85%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) | A comprehensive system for managing food catering services, including multi-level admin panel, order management, menu configuration, delivery tracking, and security features. |
+
+## 🍽️ FoodCatering System Documentation
+
+![System Architecture](https://via.placeholder.com/800x400.png?text=System+Architecture+Diagram)
+
+### 🌟 Core Features
+- **Multi-level Admin Panel** with granular permissions
+- **Order Management System** with Stripe integration
+- **Menu Configuration** with weekly rotations
+- **Delivery Tracking** with driver management
+- **CSRF Protection** & **Google reCAPTCHA**
+- **Automated Email Notifications**
+- **Visit Tracking** with geolocation
+- **Dynamic Pricing System**
+
+### 🛠 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 📁 Admin Panel Structure
+
+#### Core Functionality
+ | File | Purpose | Key Features |
+ |------|---------|--------------|
+ | `admin_panel.php` | Dashboard | Order analytics, visit tracking, quick actions |
+ | `admin_menu.php` | Weekly menu mgmt | Image uploads, nutritional info, rotation system |
+ | `admin_orders_*.php` | Order processing | Status updates, sticker generation, bulk actions |
+ | `admin_price.php` | Dynamic pricing | Price history, discount management |
+
+#### Security Modules
+php
+// CSRF Protection Implementation
+if (!hash_equals(\$_SESSION['csrf_token'], \$_POST['csrf_token'])) {
+    die("CSRF token validation failed");
+}
+
+// reCAPTCHA Validation
+\$response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret={\$secret}&response={\$response}");
+\$data = json_decode(\$response);
+💳 Payment Flow
+Copy
+sequenceDiagram
+    Client->>Server: Initiate Payment (POST)
+    Server->>Stripe: Create Session
+    Stripe-->>Server: Session ID
+    Server-->>Client: Redirect to Stripe
+    Client->>Stripe: Complete Payment
+    Stripe->>Server: Webhook Notification
+    Server->>DB: Update Order Status
+    Server->>Client: Send Confirmation Email
+📊 Database Schema
+Core Tables
+Copy
+CREATE TABLE orders (
+    order_id INT PRIMARY KEY AUTO_INCREMENT,
+    customer_email VARCHAR(255) NOT NULL,
+    total_price DECIMAL(10,2) NOT NULL,
+    status ENUM('pending','paid','delivered') DEFAULT 'pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE menu_options (
+    menu_options_id INT PRIMARY KEY AUTO_INCREMENT,
+    category VARCHAR(50) NOT NULL,
+    dish_name VARCHAR(255) NOT NULL,
+    price DECIMAL(10,2) NOT NULL,
+    INDEX(category)
+);
+Relationships
+🔐 Security Implementation
+Key Security Features
+CSRF Protection - Token validation for all form submissions
+Password Hashing - Using PHP's password_hash()
+reCAPTCHA v3 - Bot protection on critical forms
+Input Sanitization - Prepared statements for all DB queries
+Session Management - Strict session timeout policies
+Copy
+// Password Handling Example
+\$hashed_password = password_hash(\$password, PASSWORD_DEFAULT);
+if (password_verify(\$input_password, \$hashed_password)) {
+    // Authentication successful
+}
+📧 Email System
+Template	Purpose	Components
+order_confirmation	Payment receipts	Order summary, payment details
+menu_confirmation	Custom orders	Meal schedule, nutritional info
+password_reset	Security	Temporary links, expiry timers
+🚀 Installation Guide
+Clone repository
+Copy
+git clone https://github.com/yourrepo/foodcatering.git
+Configure environment
+Copy
+# .env.example
+DB_HOST=localhost
+DB_NAME=foodcatering
+STRIPE_KEY=sk_test_***
+RECAPTCHA_SITE=your_site_key
+Install dependencies
+Copy
+composer install
+npm install
+📄 License
+MIT License - See LICENSE.md for details
 
 # 🚀 Tech Arsenal
 
