@@ -79,16 +79,6 @@
 ## 🌐 Connect With Me
 
 
-1)
-[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF)](https://t.me/OJIeja)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100005711676476) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojieja) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleh-bilenkyi-95a55b177/) 
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ojieja) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com)
-
-
-2)
 
 <div align="center">
 
@@ -104,37 +94,6 @@
 
 
 
-3)
-
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
-
-<a href="https://t.me/OJIeja" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-
-<a href="https://facebook.com/profile.php?id=100005711676476" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<!-- Остальные ссылки в том же стиле -->
-
-</div>
-
-
-
-4)
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF&logoWidth=30)](https://t.me/OJIeja)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30)](https://facebook.com/profile.php?id=100005711676476) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30)](https://instagram.com/ojieja)
-
-</div>
-
-
-![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF&color=1E90FF&logoWidth=30&shadow=true)
 
 
 
