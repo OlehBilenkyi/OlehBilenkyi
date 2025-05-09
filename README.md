@@ -9,9 +9,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OlehBilenkyi&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![]()<br/>
+![]()<br/>
+
 
 
 <div align="center">
@@ -20,18 +20,19 @@
       <tr>
         <td align="center">
           <a href="https://github.com/OlehBilenkyi?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=default&bg_color=FFFFFF&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=000000" width="100%" alt="GitHub Stats">
-          </a>
+            <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
+          </a>       
         </td>
         <td align="center">
           <a href="https://github.com/OlehBilenkyi">
-            <img src="https://readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=default&background=FFFFFF&border=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" width="100%" alt="GitHub Streak Stats">
+            <img src="https://readme-streak-stats.vercel.app/?user=OlehBilenkyi&theme=ambient_gradient&hide_border=false" width="100%" alt="GitHub Streak Stats">
           </a>
         </td>
       </tr>
       <tr>
         <td align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=default&bg_color=FFFFFF" width="100%" alt="Top Languages">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages">
+         ![]() 
         </td>
         <td align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=OlehBilenkyi&theme=default&bg_color=FFFFFF" width="100%" alt="GitHub Trophies">
