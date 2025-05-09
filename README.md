@@ -41,14 +41,10 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
   </h2>
 
-| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
-|--------------|--------|------------|
-| **[🍱 FOOD_CATERING](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_100%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
-| **[🚕 TAXI_RENTAL](https://github.com/OlehBilenkyi/Taxi)** | ![Progress](https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=FFFFFF) | ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![Telegram API](https://img.shields.io/badge/-Telegram_API-FFFFFF?style=flat&logo=telegram&logoColor=26A5E4) ![Email Notifications](https://img.shields.io/badge/-Email_Notifications-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Admin Panel](https://img.shields.io/badge/-Admin_Panel-FFFFFF?style=flat&logo=react&logoColor=61DAFB) |
+ 
 
 
-
-# 💻 Tech Stack:
+# 🛠️ Tech Toolkit:
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -79,17 +75,14 @@
     
 ## 🚀 Мои проекты
 
+| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
+|--------------|--------|------------|
+| **[🍱 FOOD_CATERING](https://github.com/OlehBilenkyi/foodCatering)** | ![Progress](https://img.shields.io/badge/DEVELOPMENT_100%25-FF69B4?style=flat&logo=probot&logoColor=FFFFFF) | ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![Composer](https://img.shields.io/badge/-Composer-FFFFFF?style=flat&logo=composer&logoColor=885630) ![Stripe](https://img.shields.io/badge/-Stripe-FFFFFF?style=flat&logo=stripe&logoColor=628DFB) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![PHPMailer](https://img.shields.io/badge/-PHPMailer-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032) ![Google OAuth](https://img.shields.io/badge/-GOOGLE_AUTH-FFFFFF?style=flat&logo=google&logoColor=4285F4) ![CSRF Protection](https://img.shields.io/badge/-CSRF_PROTECTION-FFFFFF?style=flat&logo=shield&logoColor=FFD700) ![Google reCAPTCHA](https://img.shields.io/badge/-Google_reCAPTCHA-FFFFFF?style=flat&logo=google&logoColor=4285F4) |
+| **[🚕 TAXI_RENTAL](https://github.com/OlehBilenkyi/Taxi)** | ![Progress](https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=FFFFFF) | ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![Telegram API](https://img.shields.io/badge/-Telegram_API-FFFFFF?style=flat&logo=telegram&logoColor=26A5E4) ![Email Notifications](https://img.shields.io/badge/-Email_Notifications-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Admin Panel](https://img.shields.io/badge/-Admin_Panel-FFFFFF?style=flat&logo=react&logoColor=61DAFB) |
 
-<div align="center">
-  
-## 🚀 Projects & Tech Stack
 
-<table>
- 
-  <tr>
-    <td width="60%" valign="top">
-    
-### 🛠️ My Projects
+
+## 🚀 My Projects
 
 <table>
   <tr>
@@ -98,81 +91,16 @@
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/OlehBilenkyi/foodCatering">🍱 FOOD_CATERING</a></td>
+    <td><a href="https://github.com/OlehBilenkyi/foodCatering">🍱 Food Catering</a></td>
     <td align="center"><img src="https://img.shields.io/badge/COMPLETE-FF69B4?style=flat&logo=probot&logoColor=white"></td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center">
-        <img src="https://skillicons.dev/icons?i=php" title="PHP">
-        <img src="https://skillicons.dev/icons?i=css" title="CSS">
-        <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
-        <img src="https://skillicons.dev/icons?i=html" title="HTML5">
-        <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer" title="Composer">
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" title="Stripe">
-        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-        <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=flat&logo=mail.ru" title="PHPMailer">
-        <img src="https://skillicons.dev/icons?i=git" title="Git">
-        <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=google" title="Google OAuth">
-      </div>
-    </td>
+    <td><!-- Tech badges --></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/OlehBilenkyi/Taxi">🚕 TAXI_RENTAL</a></td>
+    <td><a href="https://github.com/OlehBilenkyi/Taxi">🚕 Taxi Rental</a></td>
     <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=white"></td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center">
-        <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
-        <img src="https://skillicons.dev/icons?i=php" title="PHP">
-        <img src="https://skillicons.dev/icons?i=css" title="CSS">
-        <img src="https://skillicons.dev/icons?i=html" title="HTML5">
-        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat&logo=telegram" title="Telegram API">
-        <img src="https://img.shields.io/badge/Email-FFE01B?style=flat&logo=mailchimp" title="Email Notifications">
-        <img src="https://img.shields.io/badge/Admin_Panel-61DAFB?style=flat&logo=react" title="Admin Panel">
-      </div>
-    </td>
+    <td><!-- Tech badges --></td>
   </tr>
 </table>
-    </td>
-    <td width="40%" valign="top">
-    
-### 🔥 Core Stack
-
-#### 🎨 Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5">
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3">
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
-</div>
-
-#### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=php" title="PHP">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-</div>
-
-#### 🛠️ Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=git" title="Git">
-  <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer" title="Composer">
-  <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=flat&logo=mail.ru" title="PHPMailer">
-</div>
-
-#### 🌐 Services
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" title="Stripe">
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=google" title="Google OAuth">
-</div>
-
-#### 🔒 Security
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
-  <img src="https://img.shields.io/badge/CSRF-FF0000?style=flat&logo=shield" title="CSRF Protection">
-  <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat&logo=google" title="reCAPTCHA">
-</div>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ## 📬 Socials:
