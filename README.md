@@ -20,7 +20,7 @@
       <tr>
         <td align="center">
          <a href="https://github.com/OlehBilenkyi?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&show_icons=true&theme=default&bg_color=FFFFFF&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=000000" width="100%" alt="GitHub Stats">
 </a>     
         </td>
         <td align="center">
