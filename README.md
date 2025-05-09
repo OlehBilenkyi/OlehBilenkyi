@@ -86,14 +86,14 @@
 ### ⚙️ Backend Nexus
 <img src="https://skillicons.dev/icons?i=php,mysql" style="margin: 10px 0" />
     </td>
-    <td align="center" width="50%">
+      <td align="center" width="50%">
     
 ### 🛠️ Dev Tools
-<img src="https://skillicons.dev/icons?i=git" style="margin: 5px 0" />  
-<br>
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-<br>
-![PHPMailer](https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 8px">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white" />
+</div>
     </td>
   </tr>
   
