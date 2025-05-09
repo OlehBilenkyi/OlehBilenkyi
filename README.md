@@ -47,7 +47,6 @@
 | **[🚕 TAXI_RENTAL](https://github.com/OlehBilenkyi/Taxi)** | ![Progress](https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=FFFFFF) | ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=8892BF) ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2965F1) ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1) ![Telegram API](https://img.shields.io/badge/-Telegram_API-FFFFFF?style=flat&logo=telegram&logoColor=26A5E4) ![Email Notifications](https://img.shields.io/badge/-Email_Notifications-FFFFFF?style=flat&logo=mailchimp&logoColor=FFE01B) ![Admin Panel](https://img.shields.io/badge/-Admin_Panel-FFFFFF?style=flat&logo=react&logoColor=61DAFB) |
 
 
-# 🚀 Tech Arsenal
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,25 +75,46 @@
 
 ## 🔥 Core Stack
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+    
 **Frontend Matrix**  
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
+    </td>
+    <td width="33%" valign="top">
+    
 **Backend Nexus**  
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 
+    </td>
+    <td width="33%" valign="top">
+    
 **Dev Tools**  
 <img src="https://skillicons.dev/icons?i=git" />  
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)  
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white)
 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+    
 **APIs & Services**  
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
 ![Google OAuth](https://img.shields.io/badge/OAuth2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+    </td>
+    <td width="50%" valign="top">
+    
 **Security Shield**  
 ![CSRF Protection](https://img.shields.io/badge/CSRF_Protection-FF0000?style=for-the-badge&logo=shield&logoColor=white)  
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+    </td>
+  </tr>
+</table>
 ## 📬 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005711676476) 
