@@ -19,9 +19,9 @@
     <table style="background-color: white; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
       <tr>
         <td align="center">
-          <a href="https://github.com/OlehBilenkyi?tab=repositories">
-            <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
-          </a>       
+         <a href="https://github.com/OlehBilenkyi?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlehBilenkyi&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
+</a>     
         </td>
         <td align="center">
           <a href="https://github.com/OlehBilenkyi">
