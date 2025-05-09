@@ -79,49 +79,101 @@
     
 ## 🚀 Мои проекты
 
-| <img src="https://skillicons.dev/icons?i=github" width=30> Проект | Статус | Технологии |
-|----------|--------|------------|
-| **[🍱 FOOD CATERING](https://github.com/OlehBilenkyi/foodCatering)** | ![Status](https://img.shields.io/badge/Готовность-100%25-brightgreen) | <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center">![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)</div> |
-| **[🚕 TAXI RENTAL](https://github.com/OlehBilenkyi/Taxi)** | ![Status](https://img.shields.io/badge/В%20разработке-оранжевый) | <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)</div> |
-</td>
+
+<div align="center">
+  
+## 🚀 Projects & Tech Stack
+
+<table>
+ 
+  <tr>
+    <td width="60%" valign="top">
+    
+### 🛠️ My Projects
+
+<table>
+  <tr>
+    <th><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="50"></th>
+    <th>Status</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OlehBilenkyi/foodCatering">🍱 FOOD_CATERING</a></td>
+    <td align="center"><img src="https://img.shields.io/badge/COMPLETE-FF69B4?style=flat&logo=probot&logoColor=white"></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center">
+        <img src="https://skillicons.dev/icons?i=php" title="PHP">
+        <img src="https://skillicons.dev/icons?i=css" title="CSS">
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=html" title="HTML5">
+        <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer" title="Composer">
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" title="Stripe">
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
+        <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=flat&logo=mail.ru" title="PHPMailer">
+        <img src="https://skillicons.dev/icons?i=git" title="Git">
+        <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=google" title="Google OAuth">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OlehBilenkyi/Taxi">🚕 TAXI_RENTAL</a></td>
+    <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=white"></td>
+    <td>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center">
+        <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=php" title="PHP">
+        <img src="https://skillicons.dev/icons?i=css" title="CSS">
+        <img src="https://skillicons.dev/icons?i=html" title="HTML5">
+        <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat&logo=telegram" title="Telegram API">
+        <img src="https://img.shields.io/badge/Email-FFE01B?style=flat&logo=mailchimp" title="Email Notifications">
+        <img src="https://img.shields.io/badge/Admin_Panel-61DAFB?style=flat&logo=react" title="Admin Panel">
+      </div>
+    </td>
+  </tr>
+</table>
+    </td>
     <td width="40%" valign="top">
     
-## 🔥 Мой стек
+### 🔥 Core Stack
 
-### 🎨 Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript">
+#### 🎨 Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3">
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
 </div>
 
-### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+#### ⚙️ Backend
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
+  <img src="https://skillicons.dev/icons?i=php" title="PHP">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
 </div>
 
-### 🛠️ Инструменты
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer">
-  <img src="https://img.shields.io/badge/PHPMailer-FFD700?logo=mail.ru&logoColor=white" alt="PHPMailer">
+#### 🛠️ Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
+  <img src="https://skillicons.dev/icons?i=git" title="Git">
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer" title="Composer">
+  <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=flat&logo=mail.ru" title="PHPMailer">
 </div>
 
-### 🌐 API и сервисы
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0">
-  <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/OAuth-4285F4?logo=google&logoColor=white" alt="OAuth">
+#### 🌐 Services
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe" title="Stripe">
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=google" title="Google OAuth">
 </div>
 
-### 🔒 Безопасность
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0">
-  <img src="https://img.shields.io/badge/CSRF-FF0000?logo=shield&logoColor=white" alt="CSRF Protection">
-  <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?logo=google&logoColor=white" alt="reCAPTCHA">
+#### 🔒 Security
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 10px 0">
+  <img src="https://img.shields.io/badge/CSRF-FF0000?style=flat&logo=shield" title="CSRF Protection">
+  <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat&logo=google" title="reCAPTCHA">
 </div>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ## 📬 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
