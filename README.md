@@ -73,7 +73,7 @@
   <tr>
     <td width="60%" valign="top">
     
-## 🚀 Мои проекты
+## 🚀 My Projects
 
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
@@ -82,25 +82,7 @@
 
 
 
-## 🚀 My Projects
 
-<table>
-  <tr>
-    <th><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="50"></th>
-    <th>Status</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OlehBilenkyi/foodCatering">🍱 Food Catering</a></td>
-    <td align="center"><img src="https://img.shields.io/badge/COMPLETE-FF69B4?style=flat&logo=probot&logoColor=white"></td>
-    <td><!-- Tech badges --></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OlehBilenkyi/Taxi">🚕 Taxi Rental</a></td>
-    <td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-FFA500?style=flat&logo=probot&logoColor=white"></td>
-    <td><!-- Tech badges --></td>
-  </tr>
-</table>
 
 
 ## 📬 Socials:
@@ -124,11 +106,9 @@
 
     </td>
     <td width="50%" valign="top" align="right">
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
     </td>
   </tr>
-
 </table>
 ---
