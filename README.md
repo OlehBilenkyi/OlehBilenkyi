@@ -74,7 +74,6 @@
 </div>
 
 ## 🔥 Core Stack
-
 <table>
   <tr>
     <!-- Левая колонка - Проекты -->
@@ -92,48 +91,44 @@
     <td width="45%" valign="top" style="padding-left: 20px;">
     
 ## 🔥 Core Stack
-<table>
-  <tr>
-    <td align="center">
+
 ### 🎨 Frontend Matrix
-<img src="https://skillicons.dev/icons?i=html,css,js" style="margin: 5px 0; height: 40px">
-    </td>
-    <td align="center">
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0">
+  <img src="https://skillicons.dev/icons?i=html" height="40">
+  <img src="https://skillicons.dev/icons?i=css" height="40">
+  <img src="https://skillicons.dev/icons?i=js" height="40">
+</div>
+
 ### ⚙️ Backend Nexus
-<img src="https://skillicons.dev/icons?i=php,mysql" style="margin: 5px 0; height: 40px">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0">
+  <img src="https://skillicons.dev/icons?i=php" height="40">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40">
+</div>
+
 ### 🛠️ Dev Tools
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 10px 0">
   <img src="https://skillicons.dev/icons?i=git" height="40">
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white" height="40">
 </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+
 ### 🌐 APIs & Services
-<div style="display: flex; flex-direction: column; gap: 5px">
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0">
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/OAuth2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
 </div>
-    </td>
-    <td align="center">
+
 ### 🛡️ Security Shield
-<div style="display: flex; flex-direction: column; gap: 5px">
+<div style="display: flex; justify-content: center; gap: 15px; margin: 10px 0">
   <img src="https://img.shields.io/badge/CSRF_Protection-FF0000?style=for-the-badge&logo=shield&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
 </div>
-    </td>
-  </tr>
-</table>
 
     </td>
   </tr>
 </table>
+
+
 
 ## 📬 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
