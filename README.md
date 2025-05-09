@@ -76,45 +76,47 @@
 ## 🔥 Core Stack
 
 <table>
+  <!-- Первая строка: основные технологии -->
   <tr>
-    <td width="33%" valign="top">
+    <td align="center" width="50%">
     
-**Frontend Matrix**  
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### 🎨 Frontend Matrix
+<img src="https://skillicons.dev/icons?i=html,css,js" style="margin: 10px 0" />
 
+### ⚙️ Backend Nexus
+<img src="https://skillicons.dev/icons?i=php,mysql" style="margin: 10px 0" />
     </td>
-    <td width="33%" valign="top">
+    <td align="center" width="50%">
     
-**Backend Nexus**  
-<img src="https://skillicons.dev/icons?i=php,mysql" />
-
-    </td>
-    <td width="33%" valign="top">
-    
-**Dev Tools**  
-<img src="https://skillicons.dev/icons?i=git" />  
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)  
+### 🛠️ Dev Tools
+<img src="https://skillicons.dev/icons?i=git" style="margin: 5px 0" />  
+<br>
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+<br>
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-FFD700?style=for-the-badge&logo=mail.ru&logoColor=white)
-
     </td>
   </tr>
+  
+  <!-- Вторая строка: сервисы и безопасность -->
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%">
     
-**APIs & Services**  
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
+### 🌐 APIs & Services
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+<br>
 ![Google OAuth](https://img.shields.io/badge/OAuth2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="50%">
     
-**Security Shield**  
-![CSRF Protection](https://img.shields.io/badge/CSRF_Protection-FF0000?style=for-the-badge&logo=shield&logoColor=white)  
+### 🛡️ Security Shield
+![CSRF Protection](https://img.shields.io/badge/CSRF_Protection-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+<br>
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
     </td>
   </tr>
 </table>
+
+
 ## 📬 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005711676476) 
