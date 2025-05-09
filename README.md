@@ -37,9 +37,7 @@
     </table>
   </div>
 
-  <h2 align="center" style="color: #FF69B4; text-shadow: 0 0 15px #FF69B4; font-family: 'Courier New'">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE0d2ptdHUxM3JqMDFodDR0M3NzcHR0OGE4ODNhMGkwcGdqY3JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNC2rod1uTrdC/giphy.gif" width="50"> CONNECT_MATRIX
-  </h2>
+
 
  
 
@@ -69,7 +67,7 @@
 </div>
 </div>
 
-## 🚀 My Projects
+# 🚀 My Projects
 
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJoNWpyOWw0NThzazhqNzh2djlwbWc2bXl5ZzN1d2x1NnQ2Z3poZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8xuAFQYwT73byw/giphy.gif" width="60"> PROJECT | STATUS | TECH STACK |
 |--------------|--------|------------|
@@ -78,15 +76,65 @@
 
 
 
+## 🌐 Connect With Me
 
 
-## 📬 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OJIeja)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005711676476) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ojieja) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleh-bilenkyi-95a55b177/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ojieja) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com) 
+1)
+[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF)](https://t.me/OJIeja)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100005711676476) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojieja) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleh-bilenkyi-95a55b177/) 
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ojieja) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com)
+
+
+2)
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF&width=150)](https://t.me/OJIeja)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&width=150)](https://facebook.com/profile.php?id=100005711676476) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&width=150)](https://linkedin.com/in/oleh-bilenkyi-95a55b177/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ojieja-E4405F?style=for-the-badge&logo=instagram&logoColor=white&width=150)](https://instagram.com/ojieja) 
+[![TikTok](https://img.shields.io/badge/TikTok-@ojieja-000000?style=for-the-badge&logo=tiktok&logoColor=white&width=150)](https://tiktok.com/@ojieja) 
+[![Email](https://img.shields.io/badge/Email-I3eLuy-D14836?style=for-the-badge&logo=gmail&logoColor=white&width=150)](mailto:I3eLuy@gmail.com)
+
+</div>
+
+
+
+3)
+
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
+
+<a href="https://t.me/OJIeja" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.shields.io/badge/Telegram-@OJIeja-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="https://facebook.com/profile.php?id=100005711676476" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<!-- Остальные ссылки в том же стиле -->
+
+</div>
+
+
+
+4)
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF&logoWidth=30)](https://t.me/OJIeja)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30)](https://facebook.com/profile.php?id=100005711676476) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30)](https://instagram.com/ojieja)
+
+</div>
+
+
+![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1E90FF&color=1E90FF&logoWidth=30&shadow=true)
 
 
 
