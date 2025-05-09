@@ -94,9 +94,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:I3eLuy@gmail.com) 
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+
 
 ## 🌌 Cosmic Goals
 
@@ -104,11 +102,3 @@
 - 🤖 Learn the **Go** <img src="https://skillicons.dev/icons?i=go" width="18"/> programming language  
 - 🔐 Build **Secure Cyber Architecture**  
 
-    </td>
-    <td width="50%" valign="top" align="right">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-    </td>
-  </tr>
-</table>
----
